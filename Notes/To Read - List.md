@@ -1,3 +1,6 @@
+---
+created-date: 2023-09-08
+---
 
 Finanças/Economia
 
@@ -44,8 +47,8 @@ Literature
 - Meditaciones del Quijote - Jose Ortega y Gasset 
 - Os Miseráveis - Victor Hugo
 - O pavilhão dourado - Yukio Mishima
-- Os Demônios - Dostoievsky
-- O Idiota - Dostoievsky
+- Os Demônios - Dostoiévisky
+- O Idiota - Dostoiévisky
 - Peter Camenzind - Hermann Hesse
 -  Narcissus and Goldmund - Hermann Hesse
 - O Senhor das moscas - William Golding
