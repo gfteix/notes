@@ -55,4 +55,7 @@ created-date: 2023-09-03
 - Meditações - Marco Aurélio
 - Olhai os Lirios do Campo - Erico Veríssimo
 - Marco Polo o livro das maravilhas 
+- Designing data-intensive applications
+- Learning Domain-Driven Desing
+- Náusea - Sartre
 - Duna 1, 2, 3

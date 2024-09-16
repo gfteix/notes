@@ -1,4 +1,4 @@
   
 
-- [[Watch List - Movies]]
+- [[Movies - List]]
 - [[To Read - List]]
