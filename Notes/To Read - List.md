@@ -10,7 +10,6 @@ Finanças/Economia
 - História da Riqueza do Homem por Leo Huberman
 - Dívida: os Primeiros 5.000 Anos - David Graeber 
 
-
 Produtividade
 
 - Trabalhe 4 horas por semana
