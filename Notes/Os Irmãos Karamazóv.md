@@ -1,6 +1,8 @@
 ---
 created-date: 2024-04-29
 reading-year: "2024"
+tags:
+  - book
 ---
 
 

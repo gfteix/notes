@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "655f2a200108d0c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2863212cf4f71bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a20e07686855451b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indexes/Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c356ac0e44ddb67",
+    "type": "split",
+    "children": [
+      {
+        "id": "38b74b423a23eb91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1fa748835805017",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "371f841d6cba5a15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3628e524dd0663c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 586.5
+  },
+  "right": {
+    "id": "73948ac616df7c15",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0e8eeb1c312839",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61d5060f23d357c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Indexes/Books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08f2c81069343a27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templates:Insert template": false
+    }
+  },
+  "active": "a20e07686855451b",
+  "lastOpenFiles": [
+    "Indexes/Books.md",
+    "Notes/Vinte mil léguas submarinas - Jules Verne.md",
+    "Notes/Misto Quente - Charles Bukowski.md",
+    "Notes/Em busca do sentido - Viktor Frankl.md",
+    "Notes/A Falência.md",
+    "Notes/Sidarta - Hermann Hesse.md",
+    "Notes/Demian - Hermann Hesse.md",
+    "Notes/Apologia de Sócrates - Platão.md",
+    "Notes/Private/Crepúsculo dos Ídolos - Friedrich Nietzsche.md",
+    "Notes/O Saber dos Antigos - Giovanni Reale.md",
+    "Notes/Sapiens - Yuval Harari.md",
+    "Notes/The Chaos Machine.md",
+    "Notes/O Deserto dos tártaros.md",
+    "Notes/Os Irmãos Karamazóv.md",
+    "Notes/Antilibrary.md",
+    "Notes/Private/Computer Networking.md",
+    "Notes/Private/The Algorithm Desin Manual.md",
+    "Notes/Private/Startup One - Reverse Auction.md",
+    "Notes/Private/Song List.md",
+    "Notes/Private/Random.md",
+    "Notes/Private/Privacy.md",
+    "Notes/Private/Operating System.md",
+    "Notes/Private/Manga List.md",
+    "Notes/Private/Library Management.md",
+    "Notes/Private/Lack of meaning.md",
+    "Notes/Private/Interview Prep.md",
+    "Assets/arbor_vitae_anatomy.png",
+    "Assets/Ebbinghaus.png",
+    "Assets/Ebbinghaus_repeat.png",
+    "Assets/Screenshot_20220202_222050.png",
+    "Files/Screenshot_20220131_163955.png",
+    "Assets/Screenshot_20220202_221502.png",
+    "Files/Screenshot_20220131_164831.png",
+    "Files/Screenshot_20220131_164905.png",
+    "Files/Screenshot_20220131_162458.png",
+    "Files/lisp_logo.png",
+    "Notes/Private",
+    "Untitled.canvas",
+    "Notes/daily_notes",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Templates",
+    "Notes",
+    "Daily"
+  ]
+}

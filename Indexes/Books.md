@@ -3,6 +3,7 @@ aliases:
   - livros
   - livro
   - book
+created-date: 2023-09-03
 ---
 
 [[To Read - List]]
