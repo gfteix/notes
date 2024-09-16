@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "gfteix.github.io/notes",
     ignorePatterns: ["private", "templates", ".obsidian", "Templates", "README.md"],
     defaultDateType: "created",
     theme: {
