@@ -28,11 +28,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.RecentNotes({
+    Component.DesktopOnly(Component.RecentNotes({
       title: "Recent notes",
       limit: 3,
       linkToMore: "Notes/" as SimpleSlug,
-    }),
+    })),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
@@ -50,11 +50,11 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.RecentNotes({
+    Component.DesktopOnly(Component.RecentNotes({
       title: "Recent notes",
       limit: 3,
       linkToMore: "Notes/" as SimpleSlug,
-    }),
+    })),
   ],
   right: [],
 }
