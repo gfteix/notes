@@ -1,8 +1,8 @@
 ---
 aliases:
   - currículo
+draft: "true"
 ---
-
 
 **Skils**: Node, Typescript, Go, AWS, Salesforce
 
@@ -16,9 +16,9 @@ April 2023 - Present
 
 - Worked in the integration with a different range of APIs such as Zuora, Salesforce, Signifyd, Gmail.
 
-- Working daily with the AWS stack such as Lambda, Step Functions, Gateway, S3, Cloudwatch, as well as CDK with Typescript to define the infrastructure.
+- Working daily with the AWS stack: Lambda, Step Functions, Gateway, S3, Cloudwatch, as well as CDK with Typescript to define the infrastructure.
 
-- Additionally, working with the Salesforce CRM, helping develop automations responsible for implementing business logic and integrations with other systems.
+- Additionally, I also have been working with the Salesforce CRM, helping develop automations (Flows, Apex, LWC )responsible for implementing business logic and integrations with other systems.
 
 
 ### Software Developer Intern (CI&T)

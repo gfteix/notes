@@ -1,8 +1,8 @@
 ---
 created-date: 2022-03-18
 ---
-
-## 2024
+## Watched
+### 2024
 
 - Come and See – Elem Klimov
 - Perfect Days – Wim Wenders
@@ -16,7 +16,7 @@ created-date: 2022-03-18
 - Monster (2023) – Hirokazu Kore-eda
 - Mystic River – Clint Eastwood
 
-## 2023
+### 2023
 
 - Castaway on the Moon – Lee Hae-jun
 - Into the Wild – Sean Penn
@@ -26,7 +26,7 @@ created-date: 2022-03-18
 - Silence – Martin Scorsese
 - Prisoners – Denis Villeneuve
 
-## < 2023
+### < 2023
 
 - Rear Window – Alfred Hitchcock
 - Exterminador do Futuro (The Terminator) – James Cameron
@@ -49,7 +49,7 @@ created-date: 2022-03-18
 
 
 
-## TO WATCH
+### TO WATCH
 
 - La Haine (1995)
 - Disconnect (2012)
@@ -114,7 +114,3 @@ created-date: 2022-03-18
 - Stranger Than Paradise
 - A Brighter Summer Day
 - nomadland
----
-
-
-

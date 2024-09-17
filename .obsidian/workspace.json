@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a9d701d5886b8c",
+        "id": "0c807a55838025f7",
         "type": "tabs",
         "children": [
           {
-            "id": "e905ac93719e9bc6",
+            "id": "0b29b8e797bd9c0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Movies - List.md",
+                "file": "Notes/Resume.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Movies - List.md",
+                "file": "Notes/Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,34 +125,34 @@
       "templates:Insert template": false
     }
   },
-  "active": "e905ac93719e9bc6",
+  "active": "0b29b8e797bd9c0f",
   "lastOpenFiles": [
-    "Notes/Untitled.md",
+    "Notes/Fibonacci.md",
+    "Notes/Español.md",
+    "Notes/English.md",
+    "Notes/Em busca do sentido - Viktor Frankl.md",
+    "Notes/Dynamic Algorithms.md",
+    "Notes/Dining philosophers problem.md",
+    "Notes/Docker.md",
+    "Notes/Digital Garden.md",
+    "Notes/Demian - Hermann Hesse.md",
+    "Notes/Configurando Ambiente Java.md",
+    "Notes/AWS Cloud Practitioner.md",
+    "Notes/Apologia de Sócrates - Platão.md",
+    "Notes/Antilibrary.md",
+    "Notes/A Falência.md",
+    "Notes/Private/Crepúsculo dos Ídolos - Friedrich Nietzsche.md",
+    "Notes/Private/Computer Science.md",
+    "Notes/Private/The Algorithm Desin Manual.md",
     "Notes/Movies - List.md",
+    "Notes/Untitled.md",
     "Notes/To Read - List.md",
     "Indexes/Books.md",
-    "Notes/Private/Computer Science.md",
     "Notes/Private/Computer Networking.md",
     "Notes/Private/Bebidas.md",
     "Notes/Private/Café.md",
-    "Notes/Private/The Algorithm Desin Manual.md",
     "Notes/Private/Startup One - Reverse Auction.md",
     "Notes/Private/Song List.md",
-    "Notes/Private/Random.md",
-    "Notes/Private/Privacy.md",
-    "Notes/Private/Manga List.md",
-    "Notes/Private/Operating System.md",
-    "Notes/Private/Lack of meaning.md",
-    "Notes/Private/Goals.md",
-    "Notes/Private/Go.md",
-    "Notes/Vinte mil léguas submarinas - Jules Verne.md",
-    "Notes/Misto Quente - Charles Bukowski.md",
-    "Notes/Em busca do sentido - Viktor Frankl.md",
-    "Notes/A Falência.md",
-    "Notes/Sidarta - Hermann Hesse.md",
-    "Notes/Demian - Hermann Hesse.md",
-    "Notes/Apologia de Sócrates - Platão.md",
-    "Notes/Private/Crepúsculo dos Ídolos - Friedrich Nietzsche.md",
     "Assets/arbor_vitae_anatomy.png",
     "Assets/Ebbinghaus.png",
     "Assets/Ebbinghaus_repeat.png",
