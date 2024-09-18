@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/VOGEL IM KÄFIG.md",
+                "file": "Notes/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/VOGEL IM KÄFIG.md",
+                "file": "Notes/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +125,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "0b29b8e797bd9c0f",
+  "active": "a1fa748835805017",
   "lastOpenFiles": [
+    "Notes/VOGEL IM KÄFIG.md",
     "Notes/Resume.md",
     "Notes/Fibonacci.md",
     "Notes/Español.md",
@@ -148,11 +149,10 @@
     "Notes/Movies - List.md",
     "Notes/Untitled.md",
     "Notes/To Read - List.md",
-    "Indexes/Books.md",
+    "Notes/Books.md",
     "Notes/Private/Computer Networking.md",
     "Notes/Private/Bebidas.md",
     "Notes/Private/Café.md",
-    "Notes/Private/Startup One - Reverse Auction.md",
     "Assets/arbor_vitae_anatomy.png",
     "Assets/Ebbinghaus.png",
     "Assets/Ebbinghaus_repeat.png",
