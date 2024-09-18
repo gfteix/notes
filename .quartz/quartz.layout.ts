@@ -32,8 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
       title: "Recent notes",
       limit: 3,
       linkToMore: "Notes/" as SimpleSlug,
-    })),
-    Component.DesktopOnly(Component.Explorer()),
+    }))
   ],
   right: [
     Component.Graph(),
