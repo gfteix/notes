@@ -1,3 +1,6 @@
+---
+created-date: 2024-09-16
+---
 
 The generation effect is a phenomenon where information is better remembered if it is generated from one's own mind rather than simply read
 

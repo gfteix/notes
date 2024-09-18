@@ -1,3 +1,6 @@
+---
+created-date: 2024-06-10
+---
 
 https://www.youtube.com/watch?v=4OuaONkZw1I
 https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/

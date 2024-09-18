@@ -12,7 +12,7 @@ draft: "true"
 ### Software Developer (CI&T)
 April 2023 - Present
 
-- Currently contributing to the development of a subscription product for a client from the US. Using AWS Lambda and Node with Typescript, I am mostly working with API integrations.
+- Currently contributing to the development of a subscription product for a client from the US. Using AWS Lambda and Node with Typescript, I am mostly working with API integrations. As the project works a lot "in the background" I am having the opportunity to work with asynchronous process - pub/sub (Solace) -, caching (redis)
 
 - Worked in the integration with a different range of APIs such as Zuora, Salesforce, Signifyd, Gmail.
 

@@ -1,3 +1,6 @@
+---
+created-date: 2024-06-20
+---
 
 Everything living will die on day,
 whether we'are ready to die or not

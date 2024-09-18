@@ -1,11 +1,13 @@
 ---
-created-date: 
+created-date: 2024-09-09
 reading-year: "2018"
 tags:
   - books
 ---
 
+Autor: [[Dostoiévski]]
 
+---
 
 
 > Cada um tornou-se tão ocioso da sua individualidade que não fazia outra coisa senão tentar com todas as forças humilhar e diminuir a dos outros, e isso dedicava a sua vida. Surigu a escravidão, surgiu até a escravidão voluntárias: os fracos se submetiam de bom grado aos mais fortes, aenas para que estes o ajudassem a esmagar os que eram ainda mais fracos que eles mesmo.

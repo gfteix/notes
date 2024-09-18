@@ -1,3 +1,7 @@
+---
+created-date: 2024-08-10
+---
+
 https://en.wikipedia.org/wiki/Dining_philosophers_problem
 
 - Lock/Mutex https://en.wikipedia.org/wiki/Lock_(computer_science)
