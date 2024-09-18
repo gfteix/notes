@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Lists.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Lists.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +127,11 @@
   },
   "active": "0b29b8e797bd9c0f",
   "lastOpenFiles": [
+    "README.md",
+    "setup.md",
+    "setup.sh",
+    "index.md",
+    "Notes/Lists.md",
     "Notes/Linux.md",
     "Notes/Idempontence.md",
     "Notes/Generation effect.md",
@@ -140,7 +145,6 @@
     "Notes/Ryūnosuke Akutagawa.md",
     "Notes/O Sonho de um Homem Ridículo - Dostoievski.md",
     "Notes/N+1 Select Problem.md",
-    "Notes/Lists.md",
     "Notes/Untitled.md",
     "Notes/Resume.md",
     "Notes/Fibonacci.md",
@@ -150,9 +154,6 @@
     "Notes/Digital Garden.md",
     "Notes/Demian - Hermann Hesse.md",
     "Notes/Configurando Ambiente Java.md",
-    "Notes/AWS Cloud Practitioner.md",
-    "Notes/Apologia de Sócrates - Platão.md",
-    "Notes/Antilibrary.md",
     "Assets/arbor_vitae_anatomy.png",
     "Assets/Ebbinghaus.png",
     "Assets/Ebbinghaus_repeat.png",
