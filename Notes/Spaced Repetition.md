@@ -22,7 +22,7 @@ Cognitive scientists have shown that you can actually separate the act of rememb
 
 Whenever you’re reading something that you want to remember, take notes. Except, don’t take notes which summarize the main points you want to recall. Instead, take notes which ask questions.
 
-If you wanted to do it with this email, you could write down the question, “**Q: What are the two different memory processes?**” and the answer would be “**A: Recall and recognition.**”
+If you wanted to do it with this text, you could write down the question, “**Q: What are the two different memory processes?**” and the answer would be “**A: Recall and recognition.**”
 
 ## References
 [1] Michael Nielsen, http://augmentingcognition.com/ltm.html
