@@ -35,7 +35,7 @@ Religião/Espiritualidade
 - O homem e seus símbolos - Jung
 - A filosofia perene: Uma interpretação dos grandes místicos do Oriente e do Ocidente -Aldous Huxley
 
-Literature
+Literatura
 - Planeta dos Macacos
 - O Macaco e a Essência - Aldous Huxley
 - Solaris

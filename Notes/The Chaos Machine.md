@@ -15,7 +15,7 @@ Author:  Max Fisher
 
 Sean Parker, Facebook's first president ->
 
-> "The thought process that went into building these applications was all about 'How do re consume as much of your time and conscious attention as possible'" To do that, he said, "We need to sort of give you a little dopamine hit every once in a while, because someone liked or commented on a photo or post or whatever. And that is going to get you to contribute more content, and that iws going to get you more likes and comments" He termed this the "social-validation feedback look", calling it "exactly the kind of thing that a hacker like myself would come up with, because you're exploiting a vulnerability in human psychology" ~24
+> "The thought process that went into building these applications was all about 'How do we consume as much of your time and conscious attention as possible'" To do that, he said, "We need to sort of give you a little dopamine hit every once in a while, because someone liked or commented on a photo or post or whatever. And that is going to get you to contribute with more content, and that is what is going to get you more likes and comments" He termed this the "social-validation feedback look", calling it "exactly the kind of thing that a hacker like myself would come up with, because you're exploiting a vulnerability in human psychology" ~24
 
 
 > How do companies, producing little more than bits of code displayed on a screen, seemingly control users' minds? "Our actions have been engineered", Services like twitter and YouTube habitually alter our everyday behavior, just as their designers intended. ~25

@@ -2,6 +2,7 @@
 aliases:
   - currículo
 draft: "true"
+created-date: 2024-09-23
 ---
 
 **Skils**: Node, Typescript, Go, AWS, Salesforce
