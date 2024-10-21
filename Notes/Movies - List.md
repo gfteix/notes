@@ -15,6 +15,10 @@ created-date: 2022-03-18
 - Society of the Snow – J.A. Bayona
 - Monster (2023) – Hirokazu Kore-eda
 - Mystic River – Clint Eastwood
+- Chungking Express (9/10) - 
+- Train to Busan (7/10)
+- Fallen Angels (8/10)
+- The Shining (6/10)
 
 ### 2023
 
@@ -61,7 +65,6 @@ created-date: 2022-03-18
 - Midnight in Paris
 - Amelie
 - Oasis (Korean)
-- Spring, Summer, Fall, Winter... and Spring
 - Sound of Metal (2019)
 - Kigdom of Heaven
 - 12 Angry Men
@@ -73,7 +76,6 @@ created-date: 2022-03-18
 - Pulp fiction
 - A hidden life
 - Yi yi
-- Ikiru
 - Kill list
 - Andrei Rublev
 - Ningen no jōken (Guerra e Humanaiddae)

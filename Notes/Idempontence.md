@@ -22,7 +22,7 @@ https://queue.acm.org/detail.cfm?id=2187821
 https://developer.salesforce.com/docs/atlas.en-us.integration_patterns_and_practices.meta/integration_patterns_and_practices/integ_pat_remote_call_in.htm
 
 
-Mercado Pago, Stripe, Zuora, Shopify
+
 
 Idempotent capabilities guarantee that repeated invocations are safe and won’t have a negative effect. If idempotency isn’t implemented, then repeated invocations of the same message can have different results, potentially resulting in data integrity issues, for example, creation of duplicate records, duplicate processing of transactions, and so on.
 
@@ -50,11 +50,11 @@ It’s usually recommended that clients follow something akin to an [exponential
 
 https://www.alexhyett.com/idempotency/
 
-Implementing idempotency - Corner cases
+### Implementing idempotency - Corner cases
 
 Useally the way to implement idempotency is to have the client sending a unique id. 
 
-**Hash of the quest body**
+**Hash of the request body**
 Another option is to hash the body of the request and use that as your unique identifier. However, you need to be sure if you are doing this that there is no reason the person would want to send exactly the same request again. There should be something about the combination of fields that makes it unique.
 If someone orders a SpongeBob beach towel and then 30 seconds later orders another SpongeBob beach towel you don't know that this is a duplicate order, they might just really like SpongeBob.
 
@@ -89,3 +89,4 @@ If you need to protect against this scenario then you can take a hash of the req
 
 
 
+Companies that have idempotence-key in their API: Mercado Pago, Stripe, Zuora, Shopify
