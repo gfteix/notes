@@ -33,7 +33,7 @@ Feb 2022 - April 2023
 
 
   
-Main Technologies: Node, Javascript, Typescript, Go, Jest, AWS (Lambda, Gateway, S3, SQS, SNS, CDK), Salesforce, Docker, Event Driven Architectures
+Main Technologies: Node, Javascript, Typescript, Go, Jest, AWS (Lambda, Gateway, S3, SQS, SNS, CDK), Salesforce, Docker
 
 ## EDUCATION
 
