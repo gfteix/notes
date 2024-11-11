@@ -6,7 +6,7 @@ aliases:
 created-date: 2023-09-03
 ---
 
-[[To Read - List]]
+[[Books To Read - List]]
 
 ## 2024
 - [[Os Irmãos Karamazóv]] (Reading)

@@ -19,6 +19,7 @@ created-date: 2022-03-18
 - Train to Busan (7/10)
 - Fallen Angels (8/10)
 - The Shining (6/10)
+- Children of men (8/10)
 
 ### 2023
 
@@ -116,3 +117,7 @@ created-date: 2022-03-18
 - Stranger Than Paradise
 - A Brighter Summer Day
 - nomadland
+- viy
+- cranes are flying
+- sansho
+- cure (1997)

@@ -13,16 +13,17 @@ Autor:  [[Dostoiévski]]
 ## Novas Palavras
 
 - iurodiv (юродивый | yurodivy): Santo Louco. "santo" que age intencionalmente de forma tola aos olhos dos homens. https://en.wikipedia.org/wiki/Foolishness_for_Christ
-- **Copeque**: moeda divisionária que representa a centésima parte do rublo, unidade monetária oficial da Federação Russa e do Tadjiquistão.
-- **Supliciar**: torturar, punir
-- **Comedir**: conter-se
-- **Esmorecimento**: desanimo, diminuição de força
+- Copeque: moeda divisionária que representa a centésima parte do rublo, unidade monetária oficial da Federação Russa e do Tadjiquistão.
+- Supliciar: torturar, punir
+- Comedir: conter-se
+- Esmorecimento: desanimo, diminuição de força
 - Imiscuir: Colocar junto, misturado; juntar-se a
-- epitáfio:  frases escritas sobre túmulos e mausoléus para homenagear os mortos que ali estão sepultados
+- epitáfio: frases escritas sobre túmulos e mausoléus para homenagear os mortos que ali estão sepultados
 - sine qua non (condição): sem a qual não
 
 
 ## Personagens
+
 - Fiodor Povlovich Karamazov (O Pai)
 - Adelaide Miusov (Primeira esposa de Fiodor, mãe de Dmitri)
 - Dmitri Karamazov (Filho 1)
@@ -46,13 +47,6 @@ Autor:  [[Dostoiévski]]
 - Kalgánov: Sobrinho de Miússov
 
 
-
----
-
-open question: does commitement to an ideal (like church or socialism) is just one of the those roles that just give you arbitrary confort or is there something real in there?
-
----
-
 ## Citações
 
 
@@ -60,7 +54,14 @@ open question: does commitement to an ideal (like church or socialism) is just o
 
 Pag 349
 
-> E ele, como muitos em tais circunstâncias, sempre acreditava mais na mudança de lugar: era só não haver essa gente, era só não haver essas circunstâncias, era só voar desse lugar maldito e - tudo renasceria, ganharia novo sentido! Eis em que ele acreditava e como que se afligia 
+
+>Era uma vez uma mulher perversa demais,e ela morreu. E não deixou de lembraça nenhuma boa ção. Os diabos a aggaram e a laçaram no lago de fogo. Mas seu anjo da guarda estava a postos e pensava: preciso me lembrar de alguma obra virtuosa praticada por ela para contar a Deus. Lembrou-se de uma e contou a Deus: ela, diz ekem arrancou uma cebolinha de sua horta e deu a um pedinte. E Deus lhe response: pega essa mesma cebolinha, diz Ele, estende-a para ela no lago, para que ela a agarre e tente sair; e se conseguires tirá-la do lago, então que ela vá para o paraíso; mas se a cebolinha arrebentar a mulher ficará lá onde está agora. O anjo correu para a mulher, esteu-lhe a cebolinha: pega, mulher, diz ele, agarra-te e sai. E começou a puxá-la cuidadosamente, e já quase conseguira tirá-la quando outros pecadores do lago, vendo que ela estava sendo tirada, começaram todos a agarrar-se a ela para serem tirados juntos. Mas a mulher era perversa demais, e começou a escoiceá-los: 'É a mim que estão tirando e não a vocês, a cebolinha é minha e não de vocês'. Mal ela pronunciou essas palavras a cebolinha rrebentou. E a mulher caiu no lago e lá está artendo até hoje. E o anjo chorou e foi embora
+
+
+Pág 403
+
+
+> E ele, como muitos em tais circunstâncias, sempre acreditava mais na mudança de lugar: era só não haver essa gente, era só não haver essas circunstâncias, era só voar desse lugar maldito e - tudo renasceria, ganharia um novo sentido! Eis em que ele acreditava e como que se afligia.
 
 Pág 417
 
