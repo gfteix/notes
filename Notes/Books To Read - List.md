@@ -14,12 +14,19 @@ Produtividade
 - Deep Work
 
 História
-- SPQR - Uma história da Roma Antiga
-- Roma: A História de um Império - Greg Woolf
+- (1) Pré-história de Chris Gosden
+- (2) As Primeiras Civilizações: da Idade da Pedra aos Povos Semitas, Pierre Lévêque
+- (2) As Primeiras Civilizações, Jaime Pinsky 
+- (3) Introducing the Ancient Greeks: From Bronze Age Seafarers to Navigators of the Western Mind
+- (4) (Read about greek mithology and greek philosophy)
+- How Rome conquered Greece? https://www.reddit.com/r/AskHistorians/comments/6a42hq/i_realised_i_do_not_know_about_how_rome_end_up/
+- https://en.wikipedia.org/wiki/Greece_in_the_Roman_era
+- (5) Ler Illiada e Odisseia
+- (6) SPQR - Uma história da Roma Antiga
+- (7) Roma: A História de um Império - Greg Woolf
 - Império Romano: A ascensão e a queda do maior império da antiguidade - Isaac Asimov
 - Os gregos acreditavam em seus mitos?: Ensaio sobre a imaginação constituinte
 - Augustus - John Williams
-- As Primeiras Civilizações: da Idade da Pedra aos Povos Semitas, Pierre Lévêque
 
 Filosofia
 - Homens e seus símbolos - Carl Jung
@@ -72,14 +79,12 @@ Literatura
 ---
 
 
-- Pré-história de Chris Gosden
 - The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us 
-- O despertar de tudo, David Graeber, David Wengrow (
+- O despertar de tudo, David Graeber, David Wengrow
 - The Horse, the Wheel and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World 
 - Weavers, Scribes, and Kings: A New History of the Ancient Near East 
 	- Ancient History
 	- More focused on Mesopotamia
-- Introducing the Ancient Greeks: From Bronze Age Seafarers to Navigators of the Western Mind
 - Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen de Christopher McDougall
 - Racing the Antelope: What Animals Can Teach Us About Running and Life 
 - História do caminhar, A de Rebbeca Solnit 
