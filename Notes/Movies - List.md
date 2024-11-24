@@ -20,6 +20,8 @@ created-date: 2022-03-18
 - Fallen Angels (8/10)
 - The Shining (6/10)
 - Children of men (8/10)
+- Sev7n (8/10)
+- Dororo (Anime)
 
 ### 2023
 
@@ -30,6 +32,7 @@ created-date: 2022-03-18
 - Ikiru – Akira Kurosawa
 - Silence – Martin Scorsese
 - Prisoners – Denis Villeneuve
+- The Sopranos (Serie)
 
 ### < 2023
 
@@ -111,7 +114,6 @@ created-date: 2022-03-18
 - O regresso
 - Mulholland Dr.
 - Psicose
-- Se7en
 - Les Quatre Cents Coups
 - Dazed and Confused
 - Stranger Than Paradise

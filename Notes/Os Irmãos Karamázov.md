@@ -64,3 +64,13 @@ Pág 403
 
 Pág 417
 
+
+
+>Lembro-me de que, bem antes do julgamento, muita gente de nossa sociedade se perguntava com surpresa, principalmente as senhoras: "Será que um caso tão delicado, complexo e de cunho psicológico pode ficar à mercê da decisão fatal de certos funcionários e, enfim, de mujiques?"; e "o que um funcionário qualquer, e ainda mais um mujique, vai compreender nesse caso?" Com efeito, todos esses quatro funcionários que compunham o corpo de jurados eram gente miúda, de baixa burocracia, grisalhos - só um deles levemente mais jovem -, poucos conhecidos em nossa sociedade, que vinham vegetando com poucos vencimentos, tinham, quiçá, esposas velhas inapresentáveis onde quer que fosse, uma penca de filhos, talvez até descalços, encontravam num joguinho de baralho em algum lugar o máximo com que distrair seu ócio e, naturalmente, nunca haviam lido um único livro.
+
+Pág 740
+
+
+> Na vida costuma acontecer que, diante de dois opostos, deve-se procurar a verdade no meio; no presente caso é extamente o oposto. O mais provável é que, no primeiro caso, ele tenha sido sinceramente nobre, e tão sinceramente vil no segundo. Por quê? Justamente porque somos naturezas amplas, karamazovianas - pois é nesse sentido que conduzo a questão -, capazes de encerrar todas as oposições possíveis e contemplar de uma vez ambos os abismos, um abismo que está acima de nós, o abismo da queda mais vil e funesta. Lembremos uma ideia brilhante que acabou de ser expressa por um jovem observador, que contemplou a fundo e de perto toda a família Karamázov, o senhor Rakítin: 'A sensação de baixeza da queda é tão necessária a essas naturezas descomedidas, incontidas, como a sensação de suprema nobreza' - e isso é verdade: são eles mesmos que necessitam dessa mistura artificial, constante e contínua. Dois abismos, dois abismos, senhores, em um só instante - sem isso somos infelizes e insatisfeitos, nossa existência não está completa. Somos amplos, amplos como toda a nossa mão Rússia, comportamos tudo e a tudo nos habituamos!
+
+Pág 783

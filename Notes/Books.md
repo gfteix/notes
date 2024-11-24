@@ -9,7 +9,7 @@ created-date: 2023-09-03
 [[Books To Read - List]]
 
 ## 2024
-- [[Os Irmãos Karamazóv]] (Reading)
+- [[Os Irmãos Karamázov]] (Reading)
 
 ## 2023
 - [[O Deserto dos tártaros]]

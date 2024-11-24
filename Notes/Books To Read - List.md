@@ -5,7 +5,7 @@ created-date: 2023-09-08
 Finanças/Economia
 - A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade 
 - O homem mais rico da Babilônia
--  O Negocio é Ser Pequeno E.F. Schumacher 
+- O Negocio é Ser Pequeno E.F. Schumacher 
 - História da Riqueza do Homem por Leo Huberman
 - Dívida: os Primeiros 5.000 Anos - David Graeber 
 
@@ -78,7 +78,7 @@ Literatura
 
 ---
 
-
+?
 - The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us 
 - O despertar de tudo, David Graeber, David Wengrow
 - The Horse, the Wheel and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World 
@@ -97,5 +97,4 @@ Literatura
 
 
 
-Read about pre-history -> first civilizations -> greek history -> roman history
--> ?
+Read about pre-history -> first civilizations -> greek history -> roman history -> ?
