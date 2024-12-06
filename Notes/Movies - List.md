@@ -15,12 +15,13 @@ created-date: 2022-03-18
 - Society of the Snow – J.A. Bayona
 - Monster (2023) – Hirokazu Kore-eda
 - Mystic River – Clint Eastwood
-- Chungking Express (9/10) - 
+- Chungking Express (9/10)
 - Train to Busan (7/10)
 - Fallen Angels (8/10)
 - The Shining (6/10)
 - Children of men (8/10)
 - Sev7n (8/10)
+- The Beach (6/10)
 - Dororo (Anime)
 
 ### 2023
@@ -123,3 +124,4 @@ created-date: 2022-03-18
 - cranes are flying
 - sansho
 - cure (1997)
+- On the Beach at Night Alone (2017)
