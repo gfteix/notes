@@ -22,6 +22,8 @@ created-date: 2022-03-18
 - Children of men (8/10)
 - Sev7n (8/10)
 - The Beach (6/10)
+- It's a Wondeful Life (again)
+- The sixth sense (8/10)
 - Dororo (Anime)
 
 ### 2023
@@ -65,7 +67,7 @@ created-date: 2022-03-18
 - Spring, Summer, Fall, Winter... and Spring
 - Alive (1993)
 - The Motorcycle Diaries (2004) 
--  One Week (2008) 
+- One Week (2008) 
 - Yes Man
 - Midnight in Paris
 - Amelie
@@ -97,7 +99,6 @@ created-date: 2022-03-18
 - 2001 uma odisseia no espaço
 - Trinta Anos Esta Noite (1963)
 - Drive 2011
-- Sopranos
 - Full Metal Jacket 1987
 - Rocky 1976
 - Escape from new york (1981)

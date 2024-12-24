@@ -11,3 +11,4 @@ New Words
 - unruliness (Indisciplina)
 - riddles (Enigmas)
 - stubbornly (teimosamente)
+- contemptuous (desdenhoso: )
