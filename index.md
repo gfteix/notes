@@ -7,7 +7,7 @@ Greetings, welcome to my notes - or second brain, or digital garden - whatever y
 
 
 ---
-[[Notes|Notes/]]
+[[Notes/|Notes]]
 
 [[Books|What I am reading]]
 
