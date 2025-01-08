@@ -1,8 +1,9 @@
-Welcome to my notes.
+Welcome to my notes! https://gfteix.github.io/notes/ 
+
+---
 
 
-
-How to run locally:
+How to run locally
 
 ```
 cd .quartz
