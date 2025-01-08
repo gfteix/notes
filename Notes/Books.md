@@ -6,15 +6,14 @@ aliases:
 created-date: 2023-09-03
 ---
 
-[[Books To Read - List]]
-
+## 2025
+- Robinson Crusoé (Reading)
 ## 2024
 - [[Os Irmãos Karamázov]]
 
 ## 2023
 - [[O Deserto dos tártaros]]
 - [[O Nome da Rosa - Umberto Eco]]
-- [[The Chaos Machine]] (Reading)
 ## 2021
 - Cronicas de Narnia - CS Lewis
 - Notas do Subsolo - [[Dostoiévski]]
@@ -44,6 +43,10 @@ created-date: 2023-09-03
 - O Sonho de um Homem Ridículo - Dostoievski
 - Frankenstein
 
+
+---
+
+[[Books To Read - List]]
 
 ---
 
