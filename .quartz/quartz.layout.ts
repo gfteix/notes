@@ -11,6 +11,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/gfteix",
+      Linkedin: "https://www.linkedin.com/in/gf-teixeira/"
     },
   }),
 }
@@ -39,6 +40,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
+  
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
