@@ -7,6 +7,16 @@ tags:
 draft: "true"
 ---
 
+
+fonte da verdade", a HTTP 1.1 spec (RFC 9110):
+https://datatracker.ietf.org/doc/html/rfc9110#section-9.2.2
+
+> A request method is considered "idempotent" if the intended effect on the server of multiple identical requests with that method is the same as the effect for a single such request. Of the request methods defined by this specification, [PUT](https://datatracker.ietf.org/doc/html/rfc9110#PUT), [DELETE](https://datatracker.ietf.org/doc/html/rfc9110#DELETE), and safe request methods are idempotent.
+
+
+https://www.youtube.com/live/_MYy68tKsbA?t=8954s
+
+---
 https://www.youtube.com/watch?v=4OuaONkZw1I
 https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
 
