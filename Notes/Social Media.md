@@ -5,7 +5,6 @@ aliases:
   - Redes Sociais
   - Rede Social
 tags: 
-draft: "false"
 created-date: 2025-01-08
 ---
 

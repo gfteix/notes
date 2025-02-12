@@ -8,6 +8,7 @@ Finanças/Economia
 - O Negocio é Ser Pequeno E.F. Schumacher 
 - História da Riqueza do Homem por Leo Huberman
 - Dívida: os Primeiros 5.000 Anos - David Graeber 
+- O investidor de bom senso: A melhor maneira de garantir um bom desempenho no mercado de ações - John C. Bogl
 
 Produtividade
 - Trabalhe 4 horas por semana

@@ -75,3 +75,21 @@ Pág 740
 > Na vida costuma acontecer que, diante de dois opostos, deve-se procurar a verdade no meio; no presente caso é extamente o oposto. O mais provável é que, no primeiro caso, ele tenha sido sinceramente nobre, e tão sinceramente vil no segundo. Por quê? Justamente porque somos naturezas amplas, karamazovianas - pois é nesse sentido que conduzo a questão -, capazes de encerrar todas as oposições possíveis e contemplar de uma vez ambos os abismos, um abismo que está acima de nós, o abismo da queda mais vil e funesta. Lembremos uma ideia brilhante que acabou de ser expressa por um jovem observador, que contemplou a fundo e de perto toda a família Karamázov, o senhor Rakítin: 'A sensação de baixeza da queda é tão necessária a essas naturezas descomedidas, incontidas, como a sensação de suprema nobreza' - e isso é verdade: são eles mesmos que necessitam dessa mistura artificial, constante e contínua. Dois abismos, dois abismos, senhores, em um só instante - sem isso somos infelizes e insatisfeitos, nossa existência não está completa. Somos amplos, amplos como toda a nossa mãe Rússia, comportamos tudo e a tudo nos habituamos!
 
 Pág 783
+
+
+
+
+
+_Para mudar o mundo, é preciso que os homens mudem de vida. Enquanto cada um não for verdadeiramente o irmão do seu próximo, não haverá fraternidade._
+
+
+_Concebendo a liberdade como crescimento das necessidades e sua pronta satisfação, eles alteram sua própria natureza, pois dão_ _origem a uma multidão de desejos insensatos, de hábitos e imaginações absurdas.
+
+_Mas não sabias que, mal o homem recusasse o milagre, logo recusaria também a Deus, pois o homem busca mais os milagres do_ _que a Deus. E, como o homem não pode passar sem milagres, ele vai inventar novas maravilhas, dessa vez maravilhas humanas, e se curvar aos milagres do charlatão, aos sortilégios da feiticeira, às magias dos rebeldes mil vezes hereges e sem Deus.
+
+Penso que, se o diabo não existe… se ele foi criado pelo homem… o homem fez o diabo à sua imagem e semelhança.
+Pag 278
+
+
+pag 268
+
