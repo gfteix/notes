@@ -80,12 +80,12 @@ Pág 783
 
 
 
-_Para mudar o mundo, é preciso que os homens mudem de vida. Enquanto cada um não for verdadeiramente o irmão do seu próximo, não haverá fraternidade._
+Para mudar o mundo, é preciso que os homens mudem de vida. Enquanto cada um não for verdadeiramente o irmão do seu próximo, não haverá fraternidade.
 
 
-_Concebendo a liberdade como crescimento das necessidades e sua pronta satisfação, eles alteram sua própria natureza, pois dão_ _origem a uma multidão de desejos insensatos, de hábitos e imaginações absurdas.
+Concebendo a liberdade como crescimento das necessidades e sua pronta satisfação, eles alteram sua própria natureza, pois dão_ _origem a uma multidão de desejos insensatos, de hábitos e imaginações absurdas.
 
-_Mas não sabias que, mal o homem recusasse o milagre, logo recusaria também a Deus, pois o homem busca mais os milagres do_ _que a Deus. E, como o homem não pode passar sem milagres, ele vai inventar novas maravilhas, dessa vez maravilhas humanas, e se curvar aos milagres do charlatão, aos sortilégios da feiticeira, às magias dos rebeldes mil vezes hereges e sem Deus.
+Mas não sabias que, mal o homem recusasse o milagre, logo recusaria também a Deus, pois o homem busca mais os milagres do_ _que a Deus. E, como o homem não pode passar sem milagres, ele vai inventar novas maravilhas, dessa vez maravilhas humanas, e se curvar aos milagres do charlatão, aos sortilégios da feiticeira, às magias dos rebeldes mil vezes hereges e sem Deus.
 
 Penso que, se o diabo não existe… se ele foi criado pelo homem… o homem fez o diabo à sua imagem e semelhança.
 Pag 278

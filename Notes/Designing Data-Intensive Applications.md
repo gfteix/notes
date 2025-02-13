@@ -1,10 +1,9 @@
 ---
-title: "Designing Data-Intensive Applications"
+title: Designing Data-Intensive Applications
 description: 
 aliases: 
 tags: 
-draft: "true"
-created-date: "2025-02-12"
+created-date: 2025-02-12
 ---
 
 
@@ -27,4 +26,39 @@ The system should continue to work correctly even in the face of adversity.
 
 
 ### Scalability 
-Is the system ability to cope with increased load
+Scalability is the system ability to cope with increased load
+
+- throughput: the number of records we can process per second.
+- latency: is the duration that a request is waiting to be handled
+- response time: besides the actual time to process the request, it includes network delays and queueing delays.
+
+Mean is not a good metric to determine the typical response time, because it doesn't tell you how many users actually experienced that delay. It is best to use percentiles.
+
+
+Percentile: a scale that indicates the percent of a distribution that is equal to or below it.
+
+p99 response time is 1 second -> it means 99% of the request takes less than 1 second.
+Percentiles are often used in service level objectives (SLOs) and service level agreements (SLAs)
+
+
+Tail Latency amplification
+
+When several backend calls are needed to serve a request, it takes just a single slow backend request to slow down the entire end-user request.
+
+### Maintainability
+In essence, it's about making life better for the engineering and operations teams who need to work with the system. Good abstractions can help reduce complexity and make the system easier to modify and adapt for new use cases. Good operability means having good visibility into the system's health and having effective ways of maning it.
+
+
+**Operability**: Make it easy for operations teams to keep the system running smoothly
+**Simplicity**: MAke it easy for new engineers to understand the system, removing as much complexity as possbile from the system.
+**Evolvability**: Make it easy for engineers to make changes to the system in the future, adapting it for unanticipated use cases as requirements change. Also known as extensibility, modifiability, or plasticity.
+
+
+
+
+## Chapter 2 - Data Models and Query Languages
+
+> The limit of my language mean the limits of my world.
+
+Ludwig Wittgenstein, Tractatus Logico-Philosophicus (1922)
+
