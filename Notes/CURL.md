@@ -1,3 +1,14 @@
+---
+title: CURL
+description: 
+aliases: 
+tags: 
+draft: "true"
+created-date: 2025-01-15
+---
+
+
+
 To run requests in parallel
 
 ```
