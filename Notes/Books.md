@@ -7,7 +7,10 @@ created-date: 2023-09-03
 ---
 
 ## 2025
-- Robinson Crusoé (Reading)
+- Robinson Crusoé - Daniel Defoe (Reading)
+- A Náusea - Sartre (Reading)
+- Designing Data Intensive-Applications (Reading)
+
 ## 2024
 - [[Os Irmãos Karamázov]]
 
