@@ -10,7 +10,7 @@ created-date: 2025-02-12
 
 ## Chapter 1 - Reliable, Scalable, and Maintainable Applications
 
-> The internet was done so well that most people think of it as a natural resource like the Pactific Ocean, rather than something that was main-made. When was the last time a technology with a scale like that was so error-free?
+> The internet was done so well that most people think of it as a natural resource like the Pactific Ocean, rather than something that was man-made. When was the last time a technology with a scale like that was so error-free?
 
 Alan Kay, in interview with Dr Dobb's Journal (2012)
 
