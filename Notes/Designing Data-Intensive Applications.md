@@ -70,7 +70,7 @@ When it comes to representing many-to-one relationships, relational and document
 Main arguments in favor of the document data model: schema flexibility, better performance due to locality, and for some applications it is closer to the data strctures used by the application.
 Relational model: better support for joins, and many-to-one and many-to-many relationships.
 
-**Which data model leads to simplet application code?** If the data in your application has a document-like structure (i.e., a tree of one-to-many relationships, where typically the entire tree is loaded at once), then it is probably a good idea to use a document model. The relational technique of shredding-splitting a document-like structure into multiple tables can lead to cumbersome schemas and unnecessary complicated application code.
+**Which data model leads to simpler application code?** If the data in your application has a document-like structure (i.e., a tree of one-to-many relationships, where typically the entire tree is loaded at once), then it is probably a good idea to use a document model. The relational technique of shredding-splitting a document-like structure into multiple tables can lead to cumbersome schemas and unnecessary complicated application code.
 
 
 

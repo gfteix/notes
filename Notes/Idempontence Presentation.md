@@ -71,6 +71,6 @@ In this case, we need a unique key or a sort of idempotency key coming from the 
 
 ## "System B" is a third party API that provides idempotent mechanisms
 
-Awesome, some systems - usually financial ones - like Zuora or Stripe provides a idempotency-key on it's endpoints that are not idempotent by default, so the client can defined the key to prevent duplicates in case of concurrency requests or retries.
+Awesome, some systems - usually financial ones - like Zuora or Stripe provides a idempotency-key on it's endpoints that are not idempotent by default, so the client can defined a key to prevent duplicates in case of concurrency requests or retries.
 
 

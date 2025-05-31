@@ -9,7 +9,7 @@ Autor: [[Dino Buzzati]]
 
 ---
 
-Somos consumidos pela rotina incesante sem perceber, de pouco a pouco o tempo vai passando e quando se vê a juventude já se foi, e em seguida já estamos velhos, no fim da vida. 
+Somos consumidos pela rotina incessante sem perceber, de pouco a pouco o tempo vai passando e quando se vê a juventude já se foi, e em seguida já estamos velhos, no fim da vida. 
 A vida acontece no dia a dia. Há de se ter cuidado ao viver no automático.
 
 
