@@ -7,9 +7,11 @@ created-date: 2023-09-03
 ---
 
 ## 2025
-- Robinson Crusoé - Daniel Defoe (Reading)
-- A Náusea - Sartre (Reading)
-- Designing Data Intensive-Applications (Reading)
+
+- [[O Livro do Desassossego]] - Fernando Pessoa (Reading)
+- [[Duna]] - Frank Herbert (Reading)
+- [[A Náusea]] - Sartre
+- Robinson Crusoé - Daniel Defoe
 
 ## 2024
 - [[Os Irmãos Karamázov]]

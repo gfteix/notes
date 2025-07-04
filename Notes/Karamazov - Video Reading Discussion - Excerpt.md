@@ -1,8 +1,7 @@
 Hidden gems from a youtube video discussion about [[Os Irmãos Karamázov|The Brothers Karamazov]]
 
 
-The following is a transcription of minute 34:50 to 41:15 of the video https://youtu.be/GMeaVM6sXAE
-
+The following is a transcription from minute 34:50 to 41:15 of the video https://youtu.be/GMeaVM6sXAE
 
 
 "I think the thing that we see these characters having in common is that, in one way or another, they are very big fans of ideation—but they're not good at any of it in practice. I remember listening to a TED talk about how so many people can be great at writing up their own exercise or diet plan, but they would be far better served using that 15 minutes just walking around the block. Because they're not going to actually follow through, it's still just living in the imagination.

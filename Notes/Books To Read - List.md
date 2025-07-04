@@ -1,14 +1,15 @@
 ---
 created-date: 2023-09-08
+aliases:
+  - livros para ler
 ---
 
 Finanças/Economia
 - A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade 
-- O homem mais rico da Babilônia
 - O Negocio é Ser Pequeno E.F. Schumacher 
 - História da Riqueza do Homem por Leo Huberman
 - Dívida: os Primeiros 5.000 Anos - David Graeber 
-- O investidor de bom senso: A melhor maneira de garantir um bom desempenho no mercado de ações - John C. Bogl
+- O investidor de bom senso: A melhor maneira de garantir um bom desempenho no mercado de ações - John C. Bogle
 
 Produtividade
 - Trabalhe 4 horas por semana
@@ -25,7 +26,7 @@ História
 - (5) Ler Illiada e Odisseia
 - (6) SPQR - Uma história da Roma Antiga
 - (7) Roma: A História de um Império - Greg Woolf
-- Império Romano: A ascensão e a queda do maior império da antiguidade - Isaac Asimov
+- **Império Romano: A ascensão e a queda do maior império da antiguidade - Isaac Asimov**
 - Os gregos acreditavam em seus mitos?: Ensaio sobre a imaginação constituinte
 - Augustus - John Williams
 
@@ -45,12 +46,16 @@ Religião/Espiritualidade/Psicologia
 
 
 Literatura
+- **As cronicas de Arthur - Bernard Cornwell**
+- **Noites Brancas - Dostoiévsky**
+- **O Livro do desassossego**
+- **O Senhor das moscas - William Golding**
+- **Duas narrativas fantásticas - Dostoiévsky**
 - Planeta dos Macacos
 - A ilha do dia anterior - Umberto Eco
 - Anna Kariênina - Tolstoi
 - O Macaco e a Essência - Aldous Huxley
 - Solaris
-- As cronicas de Arthur - Bernard Cornwell
 - Um cântico para Leibowitz - Walter M. Miller Jr.
 - Don Quixote
 - Doutor Jivago
@@ -58,12 +63,11 @@ Literatura
 - Meditaciones del Quijote - Jose Ortega y Gasset 
 - Os Miseráveis - Victor Hugo
 - O pavilhão dourado - Yukio Mishima
-- Os Demônios - Dostoiéviski
-- O Idiota - Dostoiéviski
+- Os Demônios - Dostoiévski
+- O Idiota - Dostoiévski
 - David Coperfield - Charles Dickens
 - Peter Camenzind - Hermann Hesse
 - Narcissus and Goldmund - Hermann Hesse
-- O Senhor das moscas - William Golding
 - O tempo e o vento - Erico verissimo
 - Musashi
 - Knulp - Herman Hesse
