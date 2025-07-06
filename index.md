@@ -13,8 +13,7 @@ Greetings, welcome to my notes - or second brain, or digital garden - whatever y
 
 [[Movies - List|What I have been watching]]
 
-
-
+[[tags/|Tags]]
 
 
 
