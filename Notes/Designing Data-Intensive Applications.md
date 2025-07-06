@@ -2,7 +2,9 @@
 title: Designing Data-Intensive Applications
 description: 
 aliases: 
-tags: 
+tags:
+  - tech
+  - books
 created-date: 2025-02-12
 ---
 

@@ -1,3 +1,16 @@
+---
+title: Concorrência
+description: 
+aliases:
+  - Concurrency
+tags:
+  - tech
+draft: "true"
+created-date: 2025-07-06
+---
+
+
+
 https://www.treinaweb.com.br/blog/concorrencia-paralelismo-processos-threads-programacao-sincrona-e-assincrona
 
 **Concorrência** é sobre a execução sequencial e **disputada** de um conjunto de tarefas independentes. Sob o ponto de vista de um sistema operacional, o responsável por esse gerenciamento é o _escalonador de processos_. Já sob o ponto de vista de concorrência em uma linguagem de programação como Go, por exemplo, o responsável é o _scheduler_ interno da linguagem. Escalonadores preemptivos (como é o caso dos sistemas operacionais modernos) favorecem a concorrência pausando e resumindo tarefas (no caso de sistemas operacionais estamos falando de processos e threads no que chamamos de trocas de contexto) para que todas tenham a oportunidade de serem executadas.

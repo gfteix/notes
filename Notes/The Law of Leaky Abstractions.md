@@ -1,5 +1,7 @@
 ---
 created-date: 2024-09-08
+tags:
+  - tech
 ---
 
 https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/

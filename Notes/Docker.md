@@ -1,5 +1,7 @@
 ---
 created-date: 2024-04-24
+tags:
+  - tech
 ---
 
 Docker before docker:

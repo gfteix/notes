@@ -1,5 +1,7 @@
 ---
 created-date: 2022-03-18
+tags:
+  - tech
 ---
 
 Fibonnaci sequence: each number is the sum of the two preceding ones.
