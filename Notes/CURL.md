@@ -2,7 +2,8 @@
 title: CURL
 description: 
 aliases: 
-tags: 
+tags:
+  - tech
 draft: "true"
 created-date: 2025-01-15
 ---

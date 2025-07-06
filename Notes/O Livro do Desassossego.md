@@ -1,31 +1,14 @@
 ---
-title: "O Livro do Desassossego"
-aliases: 
+title: O Livro do Desassossego
+aliases:
+  - The Book of Disquiet
 tags:
   - books
-created-date: "2025-07-02"
+created-date: 2025-07-02
 reading-year: "2025"
 ---
 
 Autor: [[Fernando Pessoa]]
-
----
-
-## Novas Palavras
-
-- **Troçar**: Zombar
-	- Exemplo - Fragmento 150 "Para que troço eu deles?"
-- **Insciência**: ignorância ou inaptidão
-	- Exemplo - Fragment 150 "Irmãos na comum insciência"
-- **Plácido**: tranquilo
-	- Exemplo - Fragmento 151 "No fundo da rua, abismo plácido..."
-- **Madrepérola**: Madrepérola, também conhecida como nácar, é uma substância dura e iridescente, rica em calcário, produzida por alguns moluscos na parte interna de suas conchas
-	- Exemplo - Fragmento 151 "É um ar de neve tornada cor onde boiam filamentos de madrepérola morna.""
-- **Alameda**: rua (ou caminho) constituída por árvores plantadas em fileiras.
-- **Pajem**: um rapaz que acompanha e serve um nobre, um príncipe ou um rei, especialmente em contextos históricos ou em cerimônias como casamentos, onde desempenha o papel de levar as alianças ou outros elementos simbólico
-- **Cataclismos**: eventos catastróficos de grande escala, tanto naturais quanto sociais
-- **Apoteose**: ato de elevar alguém à condição de deus, ou seja, deificar ou divinizar
-	- Exemplo - Fragmento 159 "Se eu um dia pudesse adquirir um rasgo tão grande de expressão, que concentrasse toda a arte em mim, escreveria uma apoteose do sono."
 
 ---
 
@@ -44,3 +27,22 @@ Fragmentos:
 132, 133, **138**,  
 
 144, 145, 148, 149, 157, 166
+
+
+---
+
+## Novas Palavras
+
+- **Troçar**: Zombar
+	- Exemplo - Fragmento 150 "Para que troço eu deles?"
+- **Insciência**: ignorância ou inaptidão
+	- Exemplo - Fragment 150 "Irmãos na comum insciência"
+- **Plácido**: tranquilo
+	- Exemplo - Fragmento 151 "No fundo da rua, abismo plácido..."
+- **Madrepérola**: Madrepérola, também conhecida como nácar, é uma substância dura e iridescente, rica em calcário, produzida por alguns moluscos na parte interna de suas conchas
+	- Exemplo - Fragmento 151 "É um ar de neve tornada cor onde boiam filamentos de madrepérola morna.""
+- **Alameda**: rua (ou caminho) constituída por árvores plantadas em fileiras.
+- **Pajem**: um rapaz que acompanha e serve um nobre, um príncipe ou um rei, especialmente em contextos históricos ou em cerimônias como casamentos, onde desempenha o papel de levar as alianças ou outros elementos simbólico
+- **Cataclismos**: eventos catastróficos de grande escala, tanto naturais quanto sociais
+- **Apoteose**: ato de elevar alguém à condição de deus, ou seja, deificar ou divinizar
+	- Exemplo - Fragmento 159 "Se eu um dia pudesse adquirir um rasgo tão grande de expressão, que concentrasse toda a arte em mim, escreveria uma apoteose do sono."

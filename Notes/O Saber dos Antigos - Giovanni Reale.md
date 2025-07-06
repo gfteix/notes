@@ -5,7 +5,7 @@ tags:
   - books
 ---
 
-Autor:  Giovanni Reale
+Autor: Giovanni Reale
 
 ---
 

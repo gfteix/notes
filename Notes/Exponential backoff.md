@@ -2,7 +2,8 @@
 title: Exponential backoff
 description: 
 aliases: 
-tags: 
+tags:
+  - tech
 draft: "true"
 created-date: 2024-10-13
 ---

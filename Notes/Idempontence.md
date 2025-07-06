@@ -3,7 +3,8 @@ created-date: 2024-10-13
 title: Idempontence
 description: 
 aliases: 
-tags: 
+tags:
+  - tech
 draft: "true"
 ---
 

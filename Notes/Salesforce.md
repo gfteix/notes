@@ -2,7 +2,8 @@
 title: Untitled
 description: 
 aliases: 
-tags: 
+tags:
+  - tech
 draft: "true"
 created-date: 2024-09-17
 ---
@@ -25,8 +26,6 @@ They call low code solutions as declarative (do not confuse with declaritive pro
 In Salesforce you don't have tables you have objects. There are several standard object that comes with every Salesforce org by default, such as Account, Contact, Lead, Opportunity, etc.
 
 Salesforce started first as a CRM sales related features, this is what they called SalesCloud today. In SalesCloud you are able to generate leads (potencial clients), and convert these leads to a contact/acconunt and opportunity (an opportunity of a sale or a deal), with the build in functionality and the standard objects it is possible to automate a company sales process.
-
-
 
 ## Permissions Management
 - Profile
