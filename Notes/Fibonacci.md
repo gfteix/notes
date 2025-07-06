@@ -32,7 +32,7 @@ Recursive Algorithm for Fibonacci:
  $T(n) = T(n-1) + T(n-2) + 1$
  
  Time consumption is exponential.
- The algoritm solves the subproblems multiple times.
+ The algorithm solves the subproblems multiple times.
  
  ![[Screenshot_20220202_221502.png]]
  

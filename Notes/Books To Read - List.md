@@ -9,11 +9,14 @@ Finanças/Economia
 - O Negocio é Ser Pequeno E.F. Schumacher 
 - História da Riqueza do Homem por Leo Huberman
 - Dívida: os Primeiros 5.000 Anos - David Graeber 
-- O investidor de bom senso: A melhor maneira de garantir um bom desempenho no mercado de ações - John C. Bogle
+- The Little Book of Common Sense Investing
+
 
 Produtividade
 - Trabalhe 4 horas por semana
 - Deep Work
+- Essentialism: The Disciplined Pursuit of Less 
+- Atomic Habits
 
 História
 - (1) Pré-história de Chris Gosden
@@ -36,6 +39,8 @@ Filosofia
 - Memories, Dreams, Reflections - Jung
 - O que é a filosofia antiga? - Pierre Hadot 
 - A busca da língua perfeita - Umberto Eco
+-  A Vida Intelectual de A.-D. Sertillanges 
+- 
 
 Religião/Espiritualidade/Psicologia
 - A unidade por trás das contradições: Religiões e mitos - Hermann Hesse
@@ -59,7 +64,6 @@ Literatura
 - Um cântico para Leibowitz - Walter M. Miller Jr.
 - Don Quixote
 - Doutor Jivago
-- Algo de Jorge Luis Borges
 - Meditaciones del Quijote - Jose Ortega y Gasset 
 - Os Miseráveis - Victor Hugo
 - O pavilhão dourado - Yukio Mishima
@@ -80,10 +84,19 @@ Literatura
 - Almas mortas - Gógol
 - O mestre e Margarida - Mikhail Bulgákov
 - Doutor Jivago - Boris Pasternak
+- 20th century boys
+-  O Cavalo Pálido - Boris Sávinkov
+- Aleph
+- Quincas Borba 
+- O diabo e outras histórias - Tolstoi
+- A dama do cachorrinho
+- O Processo - Karfka
+- O elefante desaparece - Murakami
+- Exhalation - Ted Chiang
+- Stories Of Your Life And Others  - Ted Chiang
 
 ---
-
-?
+## ?
 - The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us 
 - O despertar de tudo, David Graeber, David Wengrow
 - The Horse, the Wheel and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World 
@@ -99,6 +112,8 @@ Literatura
 - Tyranni of words, Stuart Chase 
 - O Homem do Castelo Alto, Philip K. Dick
 - Behave: The Biology of Humans at Our Best and Worst
+- Thinking, Fast and Slow 
+- Nudge
 
 
 
