@@ -18,6 +18,12 @@ Autor: [[Fernando Pessoa]]
    Para todos nós descerá a noite e chegará a diligência. Gozo a brisa que me dão e a alma que me deram para gozá-la, e não interrogo mais nem procuro. Se o que deixar escrito no livro dos viajantes puder, relido um dia por outros, entretê-los também na passagem, será bem. Se não o lerem, nem se entretiverem, será bem também.
 
 
+Tudo se pentra - Fragmento 228
+
+> Tudo se penetra. A leitura dos clássicos, que não falam de poentes, tem-me tornado inteligíveis vários poentes, em todas as suas cores. Há uma relação entre a competência sintática, pela qual se distingue a valia do senão, do mas, e do porém, e a capacidade de compreender quando o azul do céu é realmente verde, e que parte do amarelo existe no verde azul do céu. 
+> No fundo é a mesma coisa, a capacidade de definir e sutilizar. Sem sintaxe não há emoção duradoura. 
+> A imortalidade é uma função dos gramáticos.
+
 
 Fragmentos:
 
@@ -26,8 +32,9 @@ Fragmentos:
 79 (livro de jó), 84 (gramática), 114, 115 (individualidade), 117 (espiral - saber dizer)
 132, 133, **138**,  
 
-144, 145, 148, 149, 157, 166
+144, 145, 148, 149, 157, 166, 167, 171
 
+**228**, **235**, 306,317
 
 ---
 
@@ -46,3 +53,4 @@ Fragmentos:
 - **Cataclismos**: eventos catastróficos de grande escala, tanto naturais quanto sociais
 - **Apoteose**: ato de elevar alguém à condição de deus, ou seja, deificar ou divinizar
 	- Exemplo - Fragmento 159 "Se eu um dia pudesse adquirir um rasgo tão grande de expressão, que concentrasse toda a arte em mim, escreveria uma apoteose do sono."
+- **Sutilizar**: tornar-se volátil e evaporar-se; volatilizar-se, evolar-se.

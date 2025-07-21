@@ -1,5 +1,7 @@
 ---
 created-date: 2023-09-03
+tags:
+  - tech
 ---
 
 Notes taken while studying for the AWS Cloud Practitioner Certification. It is really disorganized.

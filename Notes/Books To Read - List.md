@@ -5,7 +5,6 @@ aliases:
 ---
 
 Finanças/Economia
-- A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade 
 - O Negocio é Ser Pequeno E.F. Schumacher 
 - História da Riqueza do Homem por Leo Huberman
 - Dívida: os Primeiros 5.000 Anos - David Graeber 
@@ -33,22 +32,19 @@ História
 - Os gregos acreditavam em seus mitos?: Ensaio sobre a imaginação constituinte
 - Augustus - John Williams
 
-Filosofia
+Filosofia/Religião/Espiritualidade/Psicologia
 - Homens e seus símbolos - Carl Jung
 - Wittgenstein e os Limites da Linguagem - Pierre Hadot
 - Memories, Dreams, Reflections - Jung
 - O que é a filosofia antiga? - Pierre Hadot 
 - A busca da língua perfeita - Umberto Eco
 -  A Vida Intelectual de A.-D. Sertillanges 
-- 
-
-Religião/Espiritualidade/Psicologia
+- All Desire is a Desire for Being - Rene Girard
 - A unidade por trás das contradições: Religiões e mitos - Hermann Hesse
 - O homem e seus símbolos - Jung
 - As portas da percepção
 - A filosofia perene: Uma interpretação dos grandes místicos do Oriente e do Ocidente -Aldous Huxley
 - Psicologia das massas e do fascismo
-
 
 Literatura
 - **As cronicas de Arthur - Bernard Cornwell**
@@ -79,7 +75,9 @@ Literatura
 - Walden
 - Guerra e Pás - Tolstoi
 - Valis - Philip k Dick
-- A dança da morte - Stephen king
+- Pet Sematery - Stephen King
+- Misery - Stephen King
+- Four Seasons - Stephen King
 - Ficções - Jorge Luiz borges
 - Almas mortas - Gógol
 - O mestre e Margarida - Mikhail Bulgákov
@@ -94,6 +92,8 @@ Literatura
 - O elefante desaparece - Murakami
 - Exhalation - Ted Chiang
 - Stories Of Your Life And Others  - Ted Chiang
+- Laranja Mecânica
+- 
 
 ---
 ## ?

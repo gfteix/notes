@@ -4,8 +4,9 @@ created-date: 2024-07-07
 
 
 
-
 ## Utils
+
+Random utilities for linux:
 
 ### Extract PDF with qpdf
 
@@ -22,15 +23,10 @@ qpdf input.pdf --pages . 12 -- la_maior.pdf
 ```
 
 
-24
-27
-63
-64
-65
 
 ---
 
-Install golang-migrate on ubuntu
+## golang-migrate on ubuntu
 
 1. Check latest release version on https://github.com/golang-migrate/migrate/releases/
 2. Download the pre-built binary (update the 4.14.1 with the latest version)
