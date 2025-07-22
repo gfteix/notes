@@ -4,6 +4,8 @@ aliases:
   - livro
   - book
 created-date: 2023-09-03
+tags:
+  - books
 ---
 
 ## 2025
@@ -19,6 +21,7 @@ created-date: 2023-09-03
 ## 2023
 - [[O Deserto dos tártaros]]
 - [[O Nome da Rosa - Umberto Eco]]
+
 ## 2021
 - Cronicas de Narnia - CS Lewis
 - Notas do Subsolo - [[Dostoiévski]]
@@ -26,6 +29,7 @@ created-date: 2023-09-03
 - [[O Saber dos Antigos - Giovanni Reale]]
 - [[Crepúsculo dos Ídolos - Friedrich Nietzsche]]
 - Omoide Emanon (Mangá)
+
 ## 2020
 - Aforismos para a sabedoria da vida - Schopenhauer
 - [[Apologia de Sócrates - Platão]]
