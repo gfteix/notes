@@ -11,7 +11,7 @@ Autor: Umberto Eco
 ---
 
 
-## Mini Resenha:
+## Pseudo Resenha:
   
 O Nome da Rosa: Livro sobre a investigação de uma séries de assasinatos que ocorrem em uma abadia durante a idade média. O livro gira em volta dos personagens Guilherme, um franciscano com grandes dotes investigativos e que traz diversos temas filosoficos ao longo do livro, e Adso, seu assistente, que é um noviço dominicano.  
   
@@ -26,8 +26,7 @@ Por fim, eu me senti orfão dos personagens durante o último capítulo, onde Ad
 
 
 ---
-## Random
-
+## Aleatório
 
 - Fatos legais: Jorge, o monge cego, foi baseado em Borges, famoso escritor argentino.  
 
