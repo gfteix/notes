@@ -5,7 +5,6 @@ description:
 aliases: 
 tags:
   - tech
-draft: "false"
 ---
 
 # Dynamic Programming

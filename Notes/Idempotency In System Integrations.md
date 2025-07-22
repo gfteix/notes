@@ -3,7 +3,8 @@ title: Idempotency In System Integrations
 description: 
 aliases:
   - Idempotency
-tags: 
+tags:
+  - tech
 created-date: 2025-01-16
 ---
 
@@ -75,7 +76,7 @@ In this case, if we have a unique key or a sort of idempotency key coming from S
             - If yes → return the found record.
             - If no → create the record on System B.
         - Store the response in Redis.
-    - If **found**:
+    - If found:
         - Return the cached response from Redis.
 
 Note: A proper TTL should be set in redis, to make sure the cache is clean after a while.

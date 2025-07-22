@@ -59,7 +59,7 @@ In essence, it's about making life better for the engineering and operations tea
 
 > The limit of my language mean the limits of my world.
 
-Ludwig Wittgenstein, Tractatus Logico-Philosophicus (1922)
+[[Ludwig Wittgenstein]], Tractatus Logico-Philosophicus (1922)
 
 
 
