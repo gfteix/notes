@@ -2,7 +2,7 @@
 title: "{{title}}"
 aliases: 
 tags:
-  - books
+  - book
 created-date: "{{date}}"
 reading-year: "{{date:YYYY}}"
 ---

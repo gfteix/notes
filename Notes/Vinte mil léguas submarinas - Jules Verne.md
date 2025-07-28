@@ -1,7 +1,7 @@
 ---
 created-date: 2022-03-18
 tags:
-  - books
+  - book
 ---
 
 Autor: Jules Verne

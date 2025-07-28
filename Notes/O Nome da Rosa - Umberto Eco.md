@@ -2,7 +2,7 @@
 created-date: 2022-03-18
 reading-year: "2023"
 tags:
-  - books
+  - book
 ---
 
 

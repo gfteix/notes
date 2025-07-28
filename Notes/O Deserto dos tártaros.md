@@ -2,7 +2,7 @@
 created-date: 2024-09-15
 reading-year: "2023"
 tags:
-  - books
+  - book
 ---
 
 Autor: [[Dino Buzzati]]

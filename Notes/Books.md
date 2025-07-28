@@ -5,7 +5,7 @@ aliases:
   - book
 created-date: 2023-09-03
 tags:
-  - books
+  - book
 ---
 
 ## 2025

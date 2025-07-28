@@ -3,7 +3,7 @@ title: A Náusea
 aliases:
   - Nausea
 tags:
-  - books
+  - book
 created-date: 2025-02-14
 reading-year: "2025"
 ---

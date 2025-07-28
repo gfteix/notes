@@ -3,7 +3,7 @@ title: Duna
 aliases:
   - Dune
 tags:
-  - books
+  - book
 created-date: 2025-07-04
 reading-year: "2025"
 ---

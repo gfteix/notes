@@ -2,7 +2,7 @@
 created-date: 2024-09-09
 reading-year: "2018"
 tags:
-  - books
+  - book
 ---
 
 Autor: [[Dostoiévski]]

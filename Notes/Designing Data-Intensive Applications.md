@@ -4,7 +4,7 @@ description:
 aliases: 
 tags:
   - tech
-  - books
+  - book
 created-date: 2025-02-12
 ---
 
@@ -75,6 +75,7 @@ Relational model: better support for joins, and many-to-one and many-to-many rel
 **Which data model leads to simpler application code?** If the data in your application has a document-like structure (i.e., a tree of one-to-many relationships, where typically the entire tree is loaded at once), then it is probably a good idea to use a document model. The relational technique of shredding-splitting a document-like structure into multiple tables can lead to cumbersome schemas and unnecessary complicated application code.
 
 
+---
 
 
 

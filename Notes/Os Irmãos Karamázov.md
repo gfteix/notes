@@ -2,7 +2,7 @@
 created-date: 2024-04-29
 reading-year: "2024"
 tags:
-  - books
+  - book
 aliases:
   - Karamazov
   - The Brothers Karamazov
@@ -12,6 +12,9 @@ aliases:
 Autor:  [[Dostoiévski]]
 
 ---
+
+It is all in here.
+
 
 ## Citações
 

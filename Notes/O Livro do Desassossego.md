@@ -3,7 +3,7 @@ title: O Livro do Desassossego
 aliases:
   - The Book of Disquiet
 tags:
-  - books
+  - book
 created-date: 2025-07-02
 reading-year: "2025"
 ---
