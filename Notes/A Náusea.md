@@ -8,8 +8,6 @@ created-date: 2025-02-14
 reading-year: "2025"
 ---
 
-
-
 Autor: Jean-Paul Sartre
 
 ---
@@ -60,8 +58,8 @@ pag 125
 
 pag 131
 
-133
+pag 133
 
-135
+pag 135
 
-138
+pag 138
