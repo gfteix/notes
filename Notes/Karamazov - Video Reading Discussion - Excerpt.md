@@ -1,3 +1,13 @@
+---
+title: Karamazov - Video Reading Discussion - Excerpt
+description: 
+aliases: 
+tags: 
+created-date: 2025-05-30
+---
+
+
+
 Hidden gems from a youtube video discussion about [[Os Irmãos Karamázov|The Brothers Karamazov]]
 
 
