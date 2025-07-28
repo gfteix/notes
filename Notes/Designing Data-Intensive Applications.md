@@ -75,7 +75,62 @@ Relational model: better support for joins, and many-to-one and many-to-many rel
 **Which data model leads to simpler application code?** If the data in your application has a document-like structure (i.e., a tree of one-to-many relationships, where typically the entire tree is loaded at once), then it is probably a good idea to use a document model. The relational technique of shredding-splitting a document-like structure into multiple tables can lead to cumbersome schemas and unnecessary complicated application code.
 
 
+### Query Languages
+The relational model introduced a new way of querying data: a declarative language (where before the norm was to use imperative code to query data).
+
+SQL followed the structure of the relational algebra.
+
+**Imperative language** = tells the computer to preform certain operations in a certain order.
+
+**Declarative language** = you specify what conditions the results must meet, and how you want the data to be transformed (sorted, grouped, aggregated) but not how to archieve that goal. 
+
+Declarative languages let the database system- s query optimizer to decide which indexes or join methods to use, this hides implementation details of the database engine, which makes possible for implementing changes without requiring changes to queries.
+
+Declarative languages often lend to parallel execution (imperative code is hard to parallelize).
+
+
+### MapReduce
+Programming model for processing large amounts of data in bulk across many machines.
+
+The core idea is to divide a large task into smaller sub-tasks, process them in parallel, and then combine the results
+
+
+### Graph-Like Data Models
+If the application has mostly many-to-many relationships then it is appropriate to model the data as a graph.
+
+Graph: consistes of two kinds of objects - vertices and edges.
+
+There are different tools and query languages (Cypher, SPARQL, Datalog) to work with Graphs.
+
+In Cypher - query language created for the Neo4j database - we could create a graph using the below syntax:
+
+```
+CREATE
+(NAmerica:Location {name: 'North America', type: 'continent'}),
+(USA:Location {name: 'United States', type: 'country'}),
+(Idaho:Location {name: 'Idaho'}),
+(Lucy:Person {name: 'Lucy'}),
+(Idaho) - [:WITHIN]-> (USA) -[:WITHIN]-> (NAmerica),
+(Lucy) - [:BORN_IN]-> (Idaho)
+```
+
+And if we want to find the names of all the people who emigrated from the United States to europe, the query is:
+
+```
+MATCH
+ (person) -[:BORN_INT]-> () -[:WITHIN*0..]-> (us:Location {name: 'United States'}),
+  (person) -[:LIVES_IN]-> () -[:WITHIN*0..]-> (us:Location {name: 'Europe'})
+RETURN person.name
+```
+
+
+In a graph query we may need to traverse a variable number of edges before finding the vertex we are looking for, the number of joins is not fixed in advance. As a person's LIVES_IN edge may point at any kind of location: a street, a city, a state..., a city may be WITHIN a region and so on. The `[:WITHIN*0..]` rule in cypher express that fact, it means follow a WITHIN edge, zero or more times.
+
+
+**How could that be handled in SQL?** Variable-length traversal paths can be handled using a **Recursive Common Table Expression** (WITH RECURSIVE sintax)
+
 ---
+
 
 
 
