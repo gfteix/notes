@@ -14,15 +14,47 @@ Autor: [[Fernando Pessoa]]
 
 ## Citações
 
-> Considero a vida uma estalagem onde tenho que me demorar até que chegue a diligência do abismo. Não sei onde ela me levará, porque não sei nada. Poderia considerar esta estalagem uma prisão, porque estou compelido a aguardar nela; poderia considerá-la um lugar de sociáveis, porque aqui me encontro com outros. Não sou, porém, nem impaciente nem comum. Deixo ao que são os que se fecham no quarto, deitados moles na cama onde esperam sem sono; deixo ao que fazem os que conversam nas salas, de onde as músicas e as vozes chegam cómodas até mim. Sento-me à porta e embebo meus olhos e ouvidos nas cores e nos sons da paisagem, e canto lento, para mim só, vagos cantos que componho enquanto espero.  
+
+**Considero a vida uma estalagem**
+Fragmento 1
+
+>Considero a vida uma estalagem onde tenho que me demorar até que chegue a diligência do abismo. Não sei onde ela me levará, porque não sei nada. Poderia considerar esta estalagem uma prisão, porque estou compelido a aguardar nela; poderia considerá-la um lugar de sociáveis, porque aqui me encontro com outros. Não sou, porém, nem impaciente nem comum. Deixo ao que são os que se fecham no quarto, deitados moles na cama onde esperam sem sono; deixo ao que fazem os que conversam nas salas, de onde as músicas e as vozes chegam cómodas até mim. Sento-me à porta e embebo meus olhos e ouvidos nas cores e nos sons da paisagem, e canto lento, para mim só, vagos cantos que componho enquanto espero.  
    Para todos nós descerá a noite e chegará a diligência. Gozo a brisa que me dão e a alma que me deram para gozá-la, e não interrogo mais nem procuro. Se o que deixar escrito no livro dos viajantes puder, relido um dia por outros, entretê-los também na passagem, será bem. Se não o lerem, nem se entretiverem, será bem também.
 
 
-Tudo se penetra - Fragmento 228
+**Tudo se penetra**
+Fragmento 228
 
 > Tudo se penetra. A leitura dos clássicos, que não falam de poentes, tem-me tornado inteligíveis vários poentes, em todas as suas cores. Há uma relação entre a competência sintática, pela qual se distingue a valia do senão, do mas, e do porém, e a capacidade de compreender quando o azul do céu é realmente verde, e que parte do amarelo existe no verde azul do céu. 
 > No fundo é a mesma coisa, a capacidade de definir e sutilizar. Sem sintaxe não há emoção duradoura. 
 > A imortalidade é uma função dos gramáticos.
+
+
+**O espetáculo do mundo**
+Fragmento 132
+
+> ...
+
+
+**Transeuntes eternos por nós mesmos**
+Fragmento 138
+
+> ...
+
+
+**Os sentidos possíveis**
+Fragmento 148
+
+> O homem perfeito do pagão era a perfeição do homem que há;o homem perfeito do cristão a perfeição do homem que não há;o homem perfeito do budista a perfeição de não haver o homem.
+> A natureza é a diferença entre a alma e Deus.
+> Tudo quando o homem expõe ou exprime é uma nota à margem de um texto apagado de todo Mais ou menos, pelo sentido da nota, tiramos o sentido que havia de ser o do texto, mas fica sempre uma dúvida, e os sentidos possíveis são muitos.
+
+
+**O homem é um animal**
+Fragmento 149
+
+> ...
+
 
 
 Fragmentos:
@@ -30,7 +62,7 @@ Fragmentos:
 10 e 11, 13
 55, 58 e 59 (reler), 62, 66, 67, 68, 70, 76
 79 (livro de jó), 84 (gramática), 114, 115 (individualidade), 117 (espiral - saber dizer)
-132, 133, **138**, 144, 145, 148, 149, 157, 166, 167, 171, **228**, **235**, 306, 317, 357
+**133**, 144, 145, 157, 166, 167, 171, **235**, 306, 317, 357
 
 ---
 
