@@ -45,9 +45,9 @@ Fragmento 138
 **Os sentidos possíveis**
 Fragmento 148
 
-> O homem perfeito do pagão era a perfeição do homem que há;o homem perfeito do cristão a perfeição do homem que não há;o homem perfeito do budista a perfeição de não haver o homem.
+> O homem perfeito do pagão era a perfeição do homem que há; o homem perfeito do cristão a perfeição do homem que não há; o homem perfeito do budista a perfeição de não haver o homem.
 > A natureza é a diferença entre a alma e Deus.
-> Tudo quando o homem expõe ou exprime é uma nota à margem de um texto apagado de todo Mais ou menos, pelo sentido da nota, tiramos o sentido que havia de ser o do texto, mas fica sempre uma dúvida, e os sentidos possíveis são muitos.
+> Tudo quando o homem expõe ou exprime é uma nota à margem de um texto apagado de todo. Mais ou menos, pelo sentido da nota, tiramos o sentido que havia de ser o do texto, mas fica sempre uma dúvida, e os sentidos possíveis são muitos.
 
 
 **O homem é um animal**
