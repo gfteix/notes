@@ -12,6 +12,7 @@ Autor: [[Fernando Pessoa]]
 
 ---
 
+ ![[desassossego_img.jpg]]
 ## Citações
 
 
@@ -57,12 +58,24 @@ Fragmento 149
 
 
 
+**Pajem num rito incompreendido**
+Fragmento 166
+
+>...
+
+
+**Tudo é nós, e nós somos tudo**
+Fragmento 167
+
+>...
+
+
 Fragmentos:
 
 10 e 11, 13
 55, 58 e 59 (reler), 62, 66, 67, 68, 70, 76
 79 (livro de jó), 84 (gramática), 114, 115 (individualidade), 117 (espiral - saber dizer)
-**133**, 144, 145, 157, 166, 167, 171, **235**, 306, 317, 357
+**133**, 144, 145, 157, 166, **167**, 171, **235**, 306, 317, 357
 
 ---
 
@@ -71,7 +84,7 @@ Fragmentos:
 - **Troçar**: Zombar
 	- Exemplo - Fragmento 150 "Para que troço eu deles?"
 - **Insciência**: ignorância ou inaptidão
-	- Exemplo - Fragment 150 "Irmãos na comum insciência"
+	- Exemplo - Fragmento 150 "Irmãos na comum insciência"
 - **Plácido**: tranquilo
 	- Exemplo - Fragmento 151 "No fundo da rua, abismo plácido..."
 - **Madrepérola**: Madrepérola, também conhecida como nácar, é uma substância dura e iridescente, rica em calcário, produzida por alguns moluscos na parte interna de suas conchas
