@@ -37,7 +37,7 @@ Fragmento 132
 > ...
 
 
-**Transeuntes eternos por nós mesmos**
+**Transeuntes eternos por nós mesmos**  
 Fragmento 138
 
 > ...
@@ -58,7 +58,7 @@ Fragmento 149
 
 
 
-**Pajem num rito incompreendido**
+**Pajem num rito incompreendido**  
 Fragmento 166
 
 >...
