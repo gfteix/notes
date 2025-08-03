@@ -5,7 +5,9 @@ created-date: 2022-03-18
 
 
 ### 2025
-https://letterboxd.com/gfteixeira/
+- [[12 Angry Men]]
+- Started using Letterbox o/ see watched movies here https://letterboxd.com/gfteixeira/
+
 
 ### 2024
 
@@ -79,7 +81,6 @@ https://letterboxd.com/gfteixeira/
 - Oasis (Korean)
 - Sound of Metal (2019)
 - Kigdom of Heaven
-- 12 Angry Men
 - Yojimbo
 - Shot Caller
 - Stalker (1979) by Andrei Tarkovski
@@ -100,7 +101,6 @@ https://letterboxd.com/gfteixeira/
 - Café Lumière
 - Midnight in Paris
 - Coffe and Cigarettes
-- The Man from Earth
 - 2001 uma odisseia no espaço
 - Trinta Anos Esta Noite (1963)
 - Drive 2011

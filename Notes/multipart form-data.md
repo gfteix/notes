@@ -22,9 +22,10 @@ Each individual part within the multipart/form-data body can have its own header
 
 ## Example
 
-Method: POST
-Path: http://www-example.com/api/resource
-Header: `Content-Type: multipart/form-data; boundary=----------abcd
+
+Path: http://www-example.com/api/resource  
+Method: POST  
+Header: `Content-Type: multipart/form-data; boundary=----------abcd`   
 Body:
 ```
 ----------abcd
