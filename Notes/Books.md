@@ -45,12 +45,20 @@ tags:
 - [[Em busca do sentido - Viktor Frankl]]
 - [[Misto Quente - Charles Bukowski]]
 - O Espelho - Machado de Assis
+- [[O Mito de Sísifo]] - Albert Camus
+- Amor - Clarice Lispector
 
 ## 2018
 - 1984 - George Orwell
-- A invenção dos direitos humanos - Lynn Hunt
-- O Sonho de um Homem Ridículo - Dostoievski
+- [[A Invenção dos direitos humanos]] - Lynn Hunt
+- [[O Sonho de um Homem Ridículo - Dostoievski]] - [[Dostoievski]]
 - Frankenstein
+
+## 2017
+- A Revolução dos bichos - George Orwell
+- O Hobbit
+- O Nome do vento
+
 
 
 ---

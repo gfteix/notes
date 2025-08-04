@@ -1,0 +1,27 @@
+---
+title: A Invenção dos direitos humanos
+description: 
+aliases: 
+tags:
+  - book
+created-date: 2018-10-29
+reading-year: "2018"
+---
+
+
+Author: Lynn Hunt
+
+---
+
+
+
+> Normalmente, todo mundo aprende a sentir empatia desde uma tenra idade. Embora a biologia propicie uma predisposição essencial, cada cultura modela a expressão de empatia a seu modo. A empatia só se desenvolve por meio da interação social: portanto, as formas dessa interação configuram a empatia de maneiras importantes. No século XVIII, os leitores de romances aprenderam a estender o seu alcance de empatia. Ao ler, eles sentiam empatia além de fronteiras sociais tradicionais entre os nobres e os plebeus, os senhores e os criados, os homens e as mulheres, talvez até entre os adultos e as crianças. Em consequência, passavam a ver os outros — indivíduos que não conheciam pessoalmente — como seus semelhantes, tendo os mesmos tipos de emoções internas. Sem esse processo de aprendizado, a “igualdade” talvez não tivesse um significado profundo e, em particular, nenhuma consequência política. A igualdade das almas no céu não é a mesma coisa que direitos iguais aqui na terra. Antes do século XVIII, os cristãos aceitavam prontamente a primeira sem admitir a segunda. 
+> A capacidade de identificação através das linhas sociais pode ter sido adquirida de várias maneiras, e não me atrevo a dizer que a leitura de romances tenha sido a única. Ainda assim, ler romances parece especialmente pertinente, em parte porque o auge de determinado tipo de romance — o epistolar — coincide cronologicamente com o nascimento dos direitos humanos. O romance epistolar cresceu como gênero entre as décadas de 1760 e 1780 e depois, um tanto misteriosamente, extinguiu-se na década de 1790. Romances de todos os tipos tinham sido publicados antes, mas eles decolaram como gênero no século XVIII, especialmente depois de 1740, a data da publicação de _Pamela_, de Richardson. Na França, oito novos romances foram publicados em 1701, 52 em 1750 e 112 em 1789. Na Grã-Bretanha, o número de novos romances aumentou seis vezes entre a primeira década do século XVIII e a década de 1760: cerca de trinta novos romances apareceram todo ano na década de 1770, quarenta por ano na de 1780 e setenta por ano na de 1790. Além disso, mais pessoas sabiam ler, e os romances de então apresentavam pessoas comuns como personagens centrais, enfrentando os problemas cotidianos do amor e do casamento e construindo sua carreira no mundo. A capacidade de ler e escrever tinha aumentado a ponto de até criados, homens e mulheres, lerem romances nas grandes cidades, embora a leitura de romances não fosse então, nem seja agora, comum entre as classes baixas. Os camponeses franceses, que chegavam a constituir 80% da população, não tinham o costume de ler romances, isso quando sabiam ler.⁵
+
+> Apesar das limitações do leitorado, os heróis e as heroínas comuns do romance do século XVIII, de Robinson Crusoé e Tom Jones a Clarissa Harlowe e Julie d'Étanges, tornaram-se nomes familiares, mesmo ocasionalmente para aqueles que não sabiam ler. Os personagens aristocráticos como Dom Quixote e a princesa de Clèves, tão proeminentes nos romances do século XVII, agora davam lugar a criados, marinheiros e moças da classe média (enquanto filha de um pequeno nobre suíço, até Júlia parece bem classe média). A escalada extraordinária do romance à preeminência no século XVIII não passou despercebida, e os estudiosos a ligaram ao longo dos anos ao capitalismo, às ambições da classe média, ao crescimento da esfera pública, ao surgimento da família nuclear, a uma mudança nas relações de gênero e até ao surgimento do nacionalismo. Quaisquer que tenham sido as razões para o desenvolvimento do romance, o meu interesse é pelos seus efeitos psicológicos e pelo modo como ele se liga ao surgimento dos direitos humanos.⁶
+
+> Para chegar ao estímulo da identificação psicológica proporcionado pelo romance, concentro-me sobre três romances epistolares especialmente influentes: _Júlia_, de Rousseau, e dois romances de seu predecessor inglês e modelo confesso, Samuel Richardson: _Pamela_ (1740) e _Clarissa_ (1747-8). O meu argumento poderia ter abarcado o romance do século XVIII em geral, e teria então considerado as muitas mulheres que escreveram romances e os personagens masculinos, como _Tom Jones_ ou _Tristram Shandy, que definitivamente também receberam muita atenção. Decidi me concentrar em Júlia, Pamela e Clarissa, três romances escritos por homens e centrados em heroínas, por causa de seu indiscutível impacto cultural. **Eles não produziram sozinhos as mudanças na empatia aqui traçadas, mas um exame mais detalhado de sua sociais. A atenção tem se voltado para o contexto social e cultural, e não para o modo como as mentes individuais compreendem e remodelam esse contexto. Acredito que a mudança social e política — nesse caso, os direitos humanos — ocorre porque muitos indivíduos tiveram experiências semelhantes, não porque todos habitassem o mesmo contexto social, mas porque, por meio de suas interações entre si e com suas leituras e visões, eles realmente criaram um novo contexto social. Em suma, estou insistindo que qualquer relato de mudança histórica deve no fim das contas explicar a alteração das mentes individuais.** **Para que os direitos humanos se tornassem autoevidentes, as pessoas comuns precisaram ter novas compreensões que nasceram de novos tipos de sentimentos.**
+
+
+
+Pag 38
