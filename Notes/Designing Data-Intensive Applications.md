@@ -23,7 +23,7 @@ Many applications today are data-intensive, as opposed to compute-intensive. Raw
 ### Reliability 
 The system should continue to work correctly even in the face of adversity. A system is reliable depending on its ability to tolerate fault.
 
-> Fault is not the same as failure. A fault is usually defined as one component of the system deviating from its spec, whereas a failure is when the system as a whole stops providing the required service to the user. It is impossible to reduce the probability of a fault to zero. therefore it is ussually best to design fault-tolerance mechanisms that prevent faults from causing failures. In this book we conver several techniques for building eliable systems from unreliable parts.
+> Fault is not the same as failure. A fault is usually defined as one component of the system deviating from its spec, whereas a failure is when the system as a whole stops providing the required service to the user. It is impossible to reduce the probability of a fault to zero. therefore it is usually best to design fault-tolerance mechanisms that prevent faults from causing failures. In this book we conver several techniques for building reliable systems from unreliable parts.
 
 
 ### Scalability 
@@ -43,8 +43,7 @@ Tail Latency amplification
 When several backend calls are needed to serve a request, it takes just a single slow backend request to slow down the entire end-user request.
 
 ### Maintainability
-In essence, it's about making life better for the engineering and operations teams who need to work with the system. Good abstractions can help reduce complexity and make the system easier to modify and adapt for new use cases. Good operability means having good visibility into the system's health and having effective ways of maning it.
-
+In essence, it's about making life better for the engineering and operations teams who need to work with the system. Good abstractions can help reduce complexity and make the system easier to modify and adapt for new use cases. Good operability means having good visibility into the system's health and having effective ways of managing it.
 
 **Operability**: Make it easy for operations teams to keep the system running smoothly
 

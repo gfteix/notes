@@ -9,25 +9,22 @@ created-date: 2025-08-03
 
 ![[cdk.png]]
 
-AWS CDK It is a software development framework for defining infrastructure. In another words: is a framework/tool that let’s you model and provision AWS Cloud resources using the programming language of your choice.
+AWS CDK is a software development framework for defining infrastructure. In another words: is a framework/tool that let’s you model and provision AWS Cloud resources using the programming language of your choice.
 
-- Behind the scenes, it uses **AWS CloudFormation** to provision resources in a safe and reusable manner.
+- Behind the scenes, it uses AWS CloudFormation to provision resources in a safe and reusable manner.
 
-
-
-
-**AWS CloudFormation**: It is a AWS service that uses template files (YAML, JSON) to automate the setup of AWS resources.
+**AWS CloudFormation**: is a AWS service that uses template files (YAML, JSON) to automate the setup of AWS resources.
 
 **Basic Comands**
 
-- Create a CDK project using the CDK CLI
+Create a CDK project using the CDK CLI
 `cdk init sample-app --langage=typescript`
 
-`npm run build`
+Lists the stacks in the app
+`cdk ls` 
 
-`cdk ls` : lists the stacks in the app
-
-`cdk synth`: synthesize the stack to an AWS CloudFormation template (this generates a cdk.out file, containing a YAML template).
+Synthesize the stack to an AWS CloudFormation template (this generates a cdk.out file, containing a YAML template).
+`cdk synth`
 
 
 ![[cdk_steps.png]]
