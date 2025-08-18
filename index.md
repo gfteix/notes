@@ -3,6 +3,9 @@ created-date: 2024-09-16
 title: Welcome
 ---
 
+ <br>
+ <br> 
+ 
 Greetings, welcome to my notes - or second brain, or digital garden - whatever you wanna call it.
 
 
