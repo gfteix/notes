@@ -24,7 +24,7 @@ tags:
 - [[O Nome da Rosa - Umberto Eco]]
 
 ## 2021
-- Cronicas de Narnia - CS Lewis
+- As Crônicas de Narnia - CS Lewis
 - Notas do Subsolo - [[Dostoiévski]]
 - [[Sapiens - Yuval Harari]]
 - [[O Saber dos Antigos - Giovanni Reale]]
@@ -38,7 +38,7 @@ tags:
 - [[Sidarta - Hermann Hesse]]
 - O guia do mochileiro das galáxias 1 - Douglas Adams
 
-## 2019
+## Before 2020
 - [[A Falência]]
 - A Redoma de Vidro - Sylvia Plath
 - A morte de Ivan Illitch - Tólstoi
@@ -48,35 +48,28 @@ tags:
 - O Espelho - Machado de Assis
 - [[O Mito de Sísifo]] - Albert Camus
 - Amor - Clarice Lispector
-
-## 2018
 - 1984 - George Orwell
 - [[A Invenção dos direitos humanos]] - Lynn Hunt
-- [[O Sonho de um Homem Ridículo - Dostoievski]] - [[Dostoievski]]
-- Frankenstein
-
-## 2017
+- [[O Sonho de um Homem Ridículo - Dostoievski]]
+- Frankenstein - Mary Shelley
 - A Revolução dos bichos - George Orwell
 - O Hobbit
 - O Nome do vento
+- Harry Potter e a Pedra Filosofal
 
-
-
----
-
-[[Books To Read - List]]
 
 ---
 
 ## [[Antilibrary]]
 
 - [[Vinte mil léguas submarinas - Jules Verne]] 
-- O Processo - Kafka
 - On The Road - Jack Kerouac
 - Meditações - Marco Aurélio
 - Olhai os Lirios do Campo - Erico Veríssimo
 - Marco Polo o livro das maravilhas 
-- Designing data-intensive applications
 - Learning Domain-Driven Desing
-- Náusea - Sartre
-- Duna 1, 2, 3
+- Novelas completas: Felicidade conjugal, A morte de Ivan Ilitch, Sonata a Kreutzer, Padre Siérgui - Tolstói
+- O Rei do Inverno - Bernard Cornwell
+
+
+[[Books To Read - List]]
