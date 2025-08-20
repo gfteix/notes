@@ -75,7 +75,7 @@ Fragmentos:
 10 e 11, 13
 55, 58 e 59 (reler), 62, 66, 67, 68, 70, 76
 79 (livro de jó), 84 (gramática), 114, 115 (individualidade), 117 (espiral - saber dizer)
-**133**, 144, 145, 157, 166, **167**, 171, **235**, 306, 317, 357, 361
+**133**, 144, 145, 157, 166, **167**, 171, **235**, 306, 317, 357, 361, 405, 406
 
 ---
 
@@ -95,3 +95,4 @@ Fragmentos:
 - **Apoteose**: ato de elevar alguém à condição de deus, ou seja, deificar ou divinizar
 	- Exemplo - Fragmento 159 "Se eu um dia pudesse adquirir um rasgo tão grande de expressão, que concentrasse toda a arte em mim, escreveria uma apoteose do sono."
 - **Sutilizar**: tornar-se volátil e evaporar-se; volatilizar-se, evolar-se.
+- oprobio 401
