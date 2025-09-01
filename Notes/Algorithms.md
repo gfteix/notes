@@ -13,16 +13,15 @@ Is a way to categorize the algorithm time or memory requirements based on input.
 
 As your input grows, how fast does computation or memory grow?
 
-In languages like Go or Javascript you pay even havier penalties because the memory can be kept araoung; it grows faster, and causes complete halts in your program for cleanup.
+Note: In languages like Go or Javascript you pay even havier penalties because the memory can be kept around; it grows faster, and causes complete halts in your program for cleanup.
 
+Important points about Big O:
 - growth is with respect to the input
 - constants are dropped
 - worst case is usually the way we measure
 
 
 O(1), O(log n), O(n), O(n log n), O(n^2), O(2^n), O(n!)
-
-
 
 
 O(n)
