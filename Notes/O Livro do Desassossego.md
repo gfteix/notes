@@ -34,7 +34,14 @@ Fragmento 228
 **O espetáculo do mundo**  
 Fragmento 132
 
+> Quanto mais contemplo o espetáculo do mundo, e o fluxo e refluxo da mutação das coisas, mais profundamente me compenetro da ficção *ingênita* de tudo, do prestígio falso da pompa de todas as realidades. E nesta contemplação, que a todas que refletem, uma ou outra vez terá sucedido, a marcha multicolor dos costumes e das modas, o caminho complexo dos progressos e das civilizações, a confusão grandiosa dos impérios e das culturas - tudo isso me parece como um mito e uma ficção - sonhadas entre sombras e esquecimentos. Mas não sei se a definição suprema de todos essses propósitos mortos, até quando conseguidos, deve estar na abdicação extática do Buda, que, ao compreender a vacuidade das coisas, se ergueu do seu êxtase dizendo "já sei tudo", ou na indiferença demasiada experiente do imperador Severo: "Omnia fui, nihil expedit" - fui tudo, nada vale a pena.
+
+
+**Forças instintivas**
+Fragmento 133
+
 > ...
+
 
 
 **Transeuntes eternos por nós mesmos**  
@@ -48,7 +55,7 @@ Fragmento 148
 
 > O homem perfeito do pagão era a perfeição do homem que há; o homem perfeito do cristão a perfeição do homem que não há; o homem perfeito do budista a perfeição de não haver o homem.
 > A natureza é a diferença entre a alma e Deus.
-> Tudo quando o homem expõe ou exprime é uma nota à margem de um texto apagado de todo. Mais ou menos, pelo sentido da nota, tiramos o sentido que havia de ser o do texto, mas fica sempre uma dúvida, e os sentidos possíveis são muitos.
+> Tudo quanto o homem expõe ou exprime é uma nota à margem de um texto apagado de todo. Mais ou menos, pelo sentido da nota, tiramos o sentido que havia de ser o do texto, mas fica sempre uma dúvida, e os sentidos possíveis são muitos.
 
 
 **O homem é um animal**  
@@ -59,7 +66,7 @@ Fragmento 149
 
 
 **Pajem num rito incompreendido**  
-Fragmento 166
+**Fragmento 166**
 
 >...
 
@@ -70,12 +77,17 @@ Fragmento 167
 >...
 
 
+**Descrença na fé cristã**
+Fragmento 306
+
+> ...
+
 Fragmentos:
 
 10 e 11, 13
-55, 58 e 59 (reler), 62, 66, 67, 68, 70, 76
-79 (livro de jó), 84 (gramática), 114, 115 (individualidade), 117 (espiral - saber dizer)
-**133**, 144, 145, 157, 166, **167**, 171, **235**, 306, 317, 357, 361, 405, 406
+55, 58 e 59 (reler), 62, 66, 67, 68, 70, 76, 77,
+79 (livro de jó), 84 (gramática), 114, 115 (individualidade), 117 (espiral - saber dizer),
+**133**, 144, 145, 150, 157, **166--**, **167**, 171, 175, 197,  **235**, **254**, 256, 257, 260, 266, 273, 278, 288, 297,298, 306, 317, 357, 361, **405<**, 406
 
 ---
 
@@ -96,3 +108,34 @@ Fragmentos:
 	- Exemplo - Fragmento 159 "Se eu um dia pudesse adquirir um rasgo tão grande de expressão, que concentrasse toda a arte em mim, escreveria uma apoteose do sono."
 - **Sutilizar**: tornar-se volátil e evaporar-se; volatilizar-se, evolar-se.
 - oprobio 401
+
+
+
+> Sim, passaremos todos, passaremos tudo. Nada ficará
+do que usou sentimentos e luvas, do que falou da morte e da
+política local. Como é a mesma luz que ilumina as faces dos
+santos e as polainas dos transeuntes, assim será a mesma
+falta de luz que deixará no escuro o nada que ficar de uns
+terem sido santos e outros usadores de polainas. No vasto
+redemoinho, como o das folhas secas, em que jaz indolente-
+mente o mundo inteiro, tanto faz os reinos como os vestidos
+das costureiras, e as tranças das crianças louras vão no mes-
+mo giro mortal que os cetros que figuraram impérios. Tudo
+é nada, e no átrio do Invisível, cuja porta aberta mostra ape-
+nas, defronte, uma porta fechada, bailam, servas desse vento
+que as remexe sem mãos, todas as coisas, pequenas e gran-
+des, que formaram, para nós e em nós, o sistema sentido do
+universo. Tudo é sombra e pó mexido, nem há voz senão a
+do som que faz o que vento ergue e arrasta, nem silêncio
+senão do que o vento deixa. Uns, folhas leves, menos presas
+de terra por mais leves, vão altas do redopio do Àtrio e caem
+mais longe que o círculo dos pesados. Outros, invisíveis
+quase, pó igual, diferente só se o víssemos de perto, faz cama
+a si mesmo no redemoinho. Outros ainda, miniaturas de
+troncos, são arrastados à roda e cessam aqui e ali. Um dia, no
+fim do conhecimento das coisas, abrir-se-á a porta do fundo,
+e tudo o que fomos — lixo de estrelas e de almas — será
+varrido para fora da casa, para que o que há recomece
+
+
+pag ?
