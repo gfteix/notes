@@ -130,6 +130,17 @@ In a graph query we may need to traverse a variable number of edges before findi
 
 ---
 
+## Chapter 3 Storage and Retrieval
+
+
+Index: the general idea behind them is to keep some additional metadata on the side, which acts as a signpost and help you locate the data you want.
+
+An index is an additional structure that is the derived from the primary data. Maintaning additional structures incurs overhead, especially on writes.
+The index needs to be updates every time data is written.
+
+Hash index
+
+
 
 
 

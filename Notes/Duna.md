@@ -25,3 +25,16 @@ Autor: Frank Herbert
 Pág 29
 
 
+Pág 174
+
+
+> Digladia-se com sonos?
+> Peleja com sombras?
+> Move-se numa espécie de sono?
+> O tempo escapuliu.
+> Sua vida foi roubada.
+> Ocupou-se de ninharias.
+> Vítima de seu desatino.
+
+
+Pág 213
