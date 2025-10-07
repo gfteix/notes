@@ -12,15 +12,14 @@ Finanças/Economia
 
 
 Produtividade
-- Trabalhe 4 horas por semana
 - Deep Work
 - Essentialism: The Disciplined Pursuit of Less 
 - Atomic Habits
 
 História
 - (1) Pré-história de Chris Gosden
-- (2) As Primeiras Civilizações: da Idade da Pedra aos Povos Semitas, Pierre Lévêque
 - (2) As Primeiras Civilizações, Jaime Pinsky 
+- (2) As Primeiras Civilizações: da Idade da Pedra aos Povos Semitas, Pierre Lévêque OU Antigo oriente do Mário Liverani.
 - (3) Introducing the Ancient Greeks: From Bronze Age Seafarers to Navigators of the Western Mind
 - (4) (Read about greek mithology and greek philosophy)
 - How Rome conquered Greece? https://www.reddit.com/r/AskHistorians/comments/6a42hq/i_realised_i_do_not_know_about_how_rome_end_up/
@@ -33,6 +32,7 @@ História
 - Augustus - John Williams
 
 Filosofia/Religião/Espiritualidade/Psicologia
+-  O livro das religiões - Jostein Gaarder
 - Homens e seus símbolos - Carl Jung
 - Wittgenstein e os Limites da Linguagem - Pierre Hadot
 - Memories, Dreams, Reflections - Jung
@@ -48,10 +48,7 @@ Filosofia/Religião/Espiritualidade/Psicologia
 
 Literatura
 - **As cronicas de Arthur - Bernard Cornwell**
-- **Noites Brancas - Dostoiévsky**
-- **O Livro do desassossego**
 - **O Senhor das moscas - William Golding**
-- **Duas narrativas fantásticas - Dostoiévsky**
 - Planeta dos Macacos
 - A ilha do dia anterior - Umberto Eco
 - Anna Kariênina - Tolstoi
@@ -98,7 +95,7 @@ Literatura
 ---
 ## ?
 - The Rise and Reign of the Mammals: A New History, from the Shadow of the Dinosaurs to Us 
-- O despertar de tudo, David Graeber, David Wengrow
+- **O despertar de tudo, David Graeber, David Wengrow**
 - The Horse, the Wheel and Language: How Bronze-Age Riders from the Eurasian Steppes Shaped the Modern World 
 - Weavers, Scribes, and Kings: A New History of the Ancient Near East 
 	- Ancient History
@@ -114,7 +111,3 @@ Literatura
 - Behave: The Biology of Humans at Our Best and Worst
 - Thinking, Fast and Slow 
 - Nudge
-
-
-
-Read about pre-history -> first civilizations -> greek history -> roman history -> ?

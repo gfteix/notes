@@ -24,17 +24,18 @@ Autor: Frank Herbert
 
 Pág 29
 
+> A grandeza é uma experiência transitória. Nunca é consistente. Depende em parte da imaginação criadora de mitos da humanidade. A pessoa que experimenta a grandeza precisa perceber o mito no qual está inserida. Precisa refletir o que nela é projetado. E precisa entender muito bem o sarcasmo. É isso que a desatrela da crença em suas próprias pretensões. O sarcasmo é tudo que lhe permite mover dentro de si mesma. Sem essa qualidade, até mesmo a grandeza ocasional destruirá um homem.
 
 Pág 174
 
 
-> Digladia-se com sonos?
-> Peleja com sombras?
-> Move-se numa espécie de sono?
-> O tempo escapuliu.
-> Sua vida foi roubada.
-> Ocupou-se de ninharias.
-> Vítima de seu desatino.
+> Digladia-se com sonhos?  
+> Peleja com sombras?  
+> Move-se numa espécie de sono?  
+> O tempo escapuliu.  
+> Sua vida foi roubada.  
+> Ocupou-se de ninharias.  
+> Vítima de seu desatino.  
 
 
 Pág 213

@@ -3,6 +3,7 @@ title: Algorithms
 description:
 aliases:
 tags:
+  - tech
 created-date: 2025-08-25
 ---
 
@@ -28,7 +29,7 @@ O(n)
 Example: A loop through N
 
 O(2n) = O(n)
-Example: two (independent) loops thorugh n, we drop the constants so it becomes O(n)
+Example: two (independent) loops through n, we drop the constants so it becomes O(n)
 
 O(n^2)
 Example: A loop inside a loop 
