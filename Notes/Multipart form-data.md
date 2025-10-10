@@ -1,10 +1,9 @@
 ---
 title: multipart form-data
-description: 
-aliases: 
+description:
+aliases:
 tags:
   - tech
-draft: "true"
 created-date: 2025-07-30
 ---
 multipart/form-data is a media/content type used in HTTP requests.
