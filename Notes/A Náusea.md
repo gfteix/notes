@@ -43,18 +43,10 @@ pag ?
 
 pag 115
   
-  
-
-118
-
-
 
 > Ele não response. Pousou o garfo e me olha com uma intensidade prodigiosa. Vai me contar seus problemas: lembro-me agora que algo o aborrecia na biblioteca. Sou todo ouvidos: tudo o que quero é me compadecer com os problemas dos outros; isso representará uma mudança para mim. Não tenho problemas, tenho dinheiro, fruto de rendas, não tenho patrão, nem mulher, nem filhos, existo, é tudo. E esse tédio é tão vago, tão metafísico, que me sinto envergonhado.
 
 pag 125
-
-
-
 
 pag 131
 

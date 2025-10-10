@@ -90,7 +90,12 @@ Literatura
 - Exhalation - Ted Chiang
 - Stories Of Your Life And Others  - Ted Chiang
 - Laranja Mecânica
-- 
+- Biografia - Dostoievski - Joseph Frank
+- Lectures on Dostoevsky - Joseph Frank
+- Childhood's End - Arthur Clarke
+- O banqueiro anarquista e outros contos escolhidos  - Fernando Pessoa
+- Metamorfoses - Ovídio
+- Stoner - John Williams
 
 ---
 ## ?
