@@ -1,5 +1,5 @@
 ---
-title: multipart form-data
+title: Multipart form-data
 description:
 aliases:
 tags:
