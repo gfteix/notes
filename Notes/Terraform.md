@@ -8,14 +8,13 @@ created-date: 2025-10-06
 ---
 
 
+- Terraform Intro: https://developer.hashicorp.com/terraform/intro
 
+-  Terraform Recommended Practices: https://developer.hashicorp.com/terraform/cloud-docs/recommended-practices
 
+- Terraform AWS Provider resources: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 
-- To see AWS Provider resources: https://registry.terraform.io/providers/hashicorp/aws/latest/docs
-
-
-- Best practices for using terraform with aws https://docs.aws.amazon.com/prescriptive-guidance/latest/terraform-aws-provider-best-practices/introduction.html
-
+- Best practices for using Terraform with AWS https://docs.aws.amazon.com/prescriptive-guidance/latest/terraform-aws-provider-best-practices/introduction.html
 
 
 
@@ -46,7 +45,6 @@ provider "aws" {
 }
 
 ```
-
 - Run `terraform format` to format terraform files
 - Run `terraform init` so terraform downloads the provider
 - Create an EC2 Instance
