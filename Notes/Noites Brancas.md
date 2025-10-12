@@ -1,10 +1,11 @@
 ---
 title: Noites Brancas
-aliases: 
+aliases:
 tags:
   - book
 created-date: 2025-08-11
 reading-year: "2025"
+draft: "true"
 ---
 
 Autor: [[Dostoiévski]] 
