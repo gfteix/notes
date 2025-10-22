@@ -1,3 +1,14 @@
+---
+title: "SOAP"
+description: 
+aliases: 
+tags: 
+draft: "true"
+created-date: "2025-10-19"
+---
+
+
+
 
 To test a soap endpoint:
 

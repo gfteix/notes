@@ -14,3 +14,5 @@ New Words
 - Contemptuous (desdenhoso)
 - Canned (enlatado)
 - Kettle (chaleira)
+- interest accruals = acrescimo de juros
+- Installment = parcela
