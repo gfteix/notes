@@ -9,10 +9,10 @@ created-date: "2025-10-19"
 
 
 
-
 To test a soap endpoint:
 
-1. Create a file called `request.xml` that contains the following SOAP request:
+1. Create a file called `request.xml` that contains the SOAP request
+
 ``` 
 <soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
 				  xmlns:gs="http://spring.io/guides/gs-producing-web-service">
@@ -24,7 +24,9 @@ To test a soap endpoint:
    </soapenv:Body>
 </soapenv:Envelope>
 ```
-2. Use CURL
+
+2. Use CURL to send the request
+
 ```
 curl --header "content-type: text/xml" -d @request.xml http://localhost:8080/ws
 ```

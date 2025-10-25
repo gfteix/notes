@@ -109,3 +109,9 @@ Distributes incoming network traffic across multiple servers, preventing any sin
 
 ## Amazon Auto Scaling Group (ASG) 
 Adjusts the number of EC2 instances based on the current demand. It provides elasticity, allowing the application to adapt to changes in traffic patterns
+
+
+
+
+
+# [[AWS SQS]]

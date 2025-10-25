@@ -6,18 +6,31 @@ tags:
 draft: "true"
 created-date: "2025-10-19"
 ---
-
-
-
-Amazon SImple Queue Service
+Amazon Simple Queue Service
 
 There are two types of SQS queues, **standard** and **FIFO**.
 
-Standard queues support **at-least-once message delivery**, and FIFO queues support **exactly-once message processing** and **high-throughput mode.**
+- Use standard queues to send data between applications when throughput is crucial.
+- Use FIFO queues to send data between applications when the order of events is important.
 
-**at-least-once delivery**: Amazon SQS stores copies of your messages on multiple servers for redundancy and high availability. On rare occasions, one of the servers that stores a copy of a message might be unavailable when you receive or delete a message.
+## Standard 
+**Unlimited throughput** – Standard queues support a very high, nearly unlimited number of API calls per second, per action.
 
-If this occurs, the copy of the message isn't deleted on the server that is unavailable, and you might get that message copy again when you receive messages. Design your applications to be idempotent (they should not be affected adversely when processing the same message more than once). 
+**At-least-once delivery** – Guaranteed at-least-once delivery, meaning that every message is delivered at least once, but in some cases, a message may be delivered more than once due to retries or network delays. It is important to design the applications to be idempotent (they should not be affected adversely when processing the same message more than once). 
+
+**Best-effort ordering** – Provides best-effort ordering, meaning that while Amazon SQS attempts to deliver messages in the order they were sent, it does not guarantee this. In some cases, messages may arrive out of order.
+
+**Durability and redundancy** – Standard queues ensure high durability by storing multiple copies of each message across multiple AWS Availability Zones.
+
+**Visibility timeout** – Amazon SQS allows you to configure a visibility timeout to control how long a message stays hidden after being received, ensuring that other consumers do not process the message until it has been fully handled or the timeout expires.
+
+## Fifo 
+**High throughput** – When you use batching, FIFO queues process up to 3,000 messages per second per API method 
+
+**Exactly-once processing** – FIFO queues deliver each message once and keep it available until you process and delete it
+
+**First-in-first-out delivery** – FIFO queues ensure that you receive messages in the order they are sent within each message group. By distributing messages across multiple groups, you can process them in parallel while still maintaining the order within each group.
+
 
 ## SQS - Lambda Integration
 
