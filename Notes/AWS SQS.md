@@ -1,10 +1,11 @@
 ---
-title: "AWS SQS"
-description: 
-aliases: 
-tags: 
+title: AWS SQS
+description:
+aliases:
+tags:
+  - tech
 draft: "true"
-created-date: "2025-10-19"
+created-date: 2025-10-19
 ---
 Amazon Simple Queue Service
 
