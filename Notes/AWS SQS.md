@@ -26,7 +26,7 @@ There are two types of SQS queues, **standard** and **FIFO**.
 **Visibility timeout** – Amazon SQS allows you to configure a visibility timeout to control how long a message stays hidden after being received, ensuring that other consumers do not process the message until it has been fully handled or the timeout expires.
 
 ## Fifo 
-**High throughput** – When you use batching, FIFO queues process up to 3,000 messages per second per API method 
+**High throughput** – FIFO queues support up to 300 messages per second, per API action without batching, or 3,000 with batching
 
 **Exactly-once processing** – FIFO queues deliver each message once and keep it available until you process and delete it
 

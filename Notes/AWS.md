@@ -114,4 +114,49 @@ Adjusts the number of EC2 instances based on the current demand. It provides ela
 
 
 
-# [[AWS SQS]]
+## [[AWS SQS]]
+
+
+## Step Functions
+
+AWS Step Functions can coordinate the distributed components of your application and keep the need for orchestration out of your code. It automatically launches and tracks each step, and can retry steps when there are errors. 
+
+
+While using Step Functions for orchestrating, you have different enterprise messaging patterns that you can implement
+
+- Sequential Tasks: Iterate through each state in the state machine throug a sequential order
+- Conditional Choice: Add branching logic to the state machine
+- Looping Tasks: Iterate your state machine task a specific number of times
+- Try/catch/finally: Deals with errors and exceptions automatically based on your defined business logic
+- Parallel: Used to create parallel branches in your state machine
+
+
+
+Step Machines can be used for tasks that requires human intervation by using a callback integration pattern.
+
+
+Step Functions Express Workflows are an alternative to the Standard Workflows. Express Workflows are designed for high-volume, short-duration use cases.
+
+See https://docs.aws.amazon.com/step-functions/latest/dg/choosing-workflow-type.html
+
+
+## Webhook
+User defined http callback
+
+- Trusted: you own both sides and can define a secure integration. Webhook is established outside of the process
+- Untrusted: Webhook established during the registration process, or required as part of the api data
+
+
+For trusted clients we can use SNS to set up an HTTP subscription that notified the client using a webhook.
+
+
+## App Sync
+is a fully managed GraphQL service with real-time data synchronization and offline programming features.
+With AWS AppSync, clients can automatically subscribe and receive status updates as they occur.
+
+## Kinesis
+Streaming service to ingest and process large volumes of data in near-real time
+
+Producers add rdata ecords to the stream and Consumers get records and process them
+
+Kenesis services scales horitzontally by adding shards. Data capacity is configured by the number of shards configured in the stream.

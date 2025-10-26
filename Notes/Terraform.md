@@ -7,7 +7,6 @@ draft: "true"
 created-date: 2025-10-06
 ---
 
-
 - Terraform Intro: https://developer.hashicorp.com/terraform/intro
 
 -  Terraform Recommended Practices: https://developer.hashicorp.com/terraform/cloud-docs/recommended-practices
