@@ -8,6 +8,10 @@ draft: "true"
 created-date: 2025-05-03
 ---
 
+
+https://aws.amazon.com/getting-started/aws-networking-essentials/
+
+
 # AWS Account Setup
 
 - Setup MFA for root user
