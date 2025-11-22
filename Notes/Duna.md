@@ -37,5 +37,14 @@ Pág 174
 > Ocupou-se de ninharias.  
 > Vítima de seu desatino.  
 
-
 Pág 213
+
+
+> Nas profundezas do inconsciente humano, encontra-se uma necessidade difusa de um universo lógico e que faça sentido. Mas o universo real está sempre um passo adiante da lógica.
+
+Pag 477
+
+
+> Há em todas as coisas um padrão que faz parte do nosso universo. Tem simetria, elegância e graça: as qualidades que sempre encontramos na obra de um verdadeiro artista. É possível encontrá-lo na mudança das estações, na maneira como a areia escorre de uma colina, nos emaranhados de galhos de um arbusto de creosoto ou no padrão de suas folhas. Tentamos reproduzir esses padrões em nossas vidas e nossa sociedade, à procura dos ritmos, das danças, das formas que confortam. Mas pode-se ver perigo na busca da perfeição definitiva. Está claro que o padrão definitivo encerra sua própria fixidez. Nessa perfeição, todas as coisas seguem para a morte.
+
+Pág 486
