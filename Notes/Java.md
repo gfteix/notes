@@ -6,6 +6,12 @@ tags:
 draft: "true"
 created-date: 2025-10-17
 ---
+---
+- [[Configuring Java on Linux]]
+---
+
+
+
 **Servlet**:  Jakarta Servlet is a Java class in Jakarta EE that conforms to the Jakarta Servlet API, a standard for implementing Java classes that respond to requests.
 A Servlet  is an object that receives a request and generates a response based on that request.
 

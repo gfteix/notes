@@ -9,9 +9,8 @@ tags:
 ---
 
 ## 2025
-
-- [[O Livro do Desassossego]] - Fernando Pessoa (Reading)
-- [[Duna]] - Frank Herbert (Reading)
+- [[O Livro do Desassossego]] - Fernando Pessoa (Lendo)
+- [[Duna]] - Frank Herbert 
 - [[Noites Brancas]] - Dostoiévski
 - [[A Náusea]] - Sartre
 - Robinson Crusoé - Daniel Defoe
@@ -38,7 +37,7 @@ tags:
 - [[Sidarta - Hermann Hesse]]
 - O guia do mochileiro das galáxias 1 - Douglas Adams
 
-## Before 2020
+## < 2020
 - [[A Falência]]
 - A Redoma de Vidro - Sylvia Plath
 - A morte de Ivan Illitch - Tólstoi
@@ -64,12 +63,12 @@ tags:
 
 - [[Vinte mil léguas submarinas - Jules Verne]] 
 - On The Road - Jack Kerouac
-- Meditações - Marco Aurélio
 - Olhai os Lirios do Campo - Erico Veríssimo
 - Marco Polo o livro das maravilhas 
 - Learning Domain-Driven Desing
 - Novelas completas: Felicidade conjugal, A morte de Ivan Ilitch, Sonata a Kreutzer, Padre Siérgui - Tolstói
 - O Rei do Inverno - Bernard Cornwell
+- Duna 2, 3
 
 
 [[Books To Read - List]]
