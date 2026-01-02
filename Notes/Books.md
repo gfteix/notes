@@ -9,11 +9,14 @@ tags:
 ---
 
 ## 2025
-- [[O Livro do Desassossego]] - Fernando Pessoa (Lendo)
-- [[Duna]] - Frank Herbert 
+- [[O Livro do Desassossego]] - Fernando Pessoa
+- A Morte de Ivan Illich  - Tólstoi (Releitura)
+- [[Duna]] - Frank Herbert
 - [[Noites Brancas]] - Dostoiévski
 - [[A Náusea]] - Sartre
 - Robinson Crusoé - Daniel Defoe
+- O último capítulo - Machado de Assis (Conto)
+- A Arca - Machado de Assis (Conto)
 
 ## 2024
 - [[Os Irmãos Karamázov]]

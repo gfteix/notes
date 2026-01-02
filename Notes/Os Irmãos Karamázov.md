@@ -59,6 +59,18 @@ Pag 278
 
 pag 268
 
+
+
+“‘I was thinking that even if I believed that life was pointless, lost faith in the woman I loved, lost faith in the order of things, or even became convinced that I was surrounded by a disorderly, evil, perhaps devil-made chaos, even if I were completely overcome by the horrors of human despair — I would still want to live on; once I have started drinking from this cup, I won’t put it down until I have emptied it to the last drop.’” (Dostoevsky, Book V, Chapter 3 of The Brothers Karamazov)
+
+
+ “and i seem to have such strength in me now, that i think i could stand anything, any suffering only to be able to say and to repeat to myself every moment, i exist ? in thousands of agonies i exist.
+
+im tormented on the rack- but i exist though i sit alone in a pillar i exist! I SEE THE SUN AND IF I DONT SEE THE SUN I KNOW ITS THERE AND THERE IS A WHOLE LIFE IN THAT, IN KNOWING THAT THE SUN IS THERE” 
+
+pag 665
+
+
 ---
 
 ## Novas Palavras

@@ -64,7 +64,6 @@ Fragmento 149
 > ...
 
 
-
 **Pajem num rito incompreendido**  
 **Fragmento 166**
 
@@ -82,34 +81,9 @@ Fragmento 306
 
 > ...
 
-Fragmentos:
 
-10 e 11, 13
-55, 58 e 59 (reler), 62, 66, 67, 68, 70, 76, 77,
-79 (livro de jó), 84 (gramática), 114, 115 (individualidade), 117 (espiral - saber dizer),
-**133**, 144, 145, 150, 157, **166--**, **167**, 171, 175, 197,  **235**, **254**, 256, 257, 260, 266, 273, 278, 288, 297,298, 306, 317, 357, 361, **405<**, 406
-
----
-
-## Novas Palavras
-
-- **Troçar**: Zombar
-	- Exemplo - Fragmento 150 "Para que troço eu deles?"
-- **Insciência**: ignorância ou inaptidão
-	- Exemplo - Fragmento 150 "Irmãos na comum insciência"
-- **Plácido**: tranquilo
-	- Exemplo - Fragmento 151 "No fundo da rua, abismo plácido..."
-- **Madrepérola**: Madrepérola, também conhecida como nácar, é uma substância dura e iridescente, rica em calcário, produzida por alguns moluscos na parte interna de suas conchas
-	- Exemplo - Fragmento 151 "É um ar de neve tornada cor onde boiam filamentos de madrepérola morna.""
-- **Alameda**: rua (ou caminho) constituída por árvores plantadas em fileiras.
-- **Pajem**: um rapaz que acompanha e serve um nobre, um príncipe ou um rei, especialmente em contextos históricos ou em cerimônias como casamentos, onde desempenha o papel de levar as alianças ou outros elementos simbólico
-- **Cataclismos**: eventos catastróficos de grande escala, tanto naturais quanto sociais
-- **Apoteose**: ato de elevar alguém à condição de deus, ou seja, deificar ou divinizar
-	- Exemplo - Fragmento 159 "Se eu um dia pudesse adquirir um rasgo tão grande de expressão, que concentrasse toda a arte em mim, escreveria uma apoteose do sono."
-- **Sutilizar**: tornar-se volátil e evaporar-se; volatilizar-se, evolar-se.
-- oprobio 401
-
-
+**Passaremos todos**
+Fragmento 202
 
 > Sim, passaremos todos, passaremos tudo. Nada ficará
 do que usou sentimentos e luvas, do que falou da morte e da
@@ -138,4 +112,37 @@ e tudo o que fomos — lixo de estrelas e de almas — será
 varrido para fora da casa, para que o que há recomece
 
 
-pag ?
+
+---
+
+
+Fragmentos:
+
+10 e 11, 13
+55, 58 e 59 (reler), 62, 66, 67, 68, 70, 76, 77,
+79 (livro de jó), 84 (gramática), 114, 115 (individualidade), 117 (espiral - saber dizer),
+**133**, 144, 145, 150, 157, **166**, **167**, 171, 175, 197,  202, **235**, **254**, 256, 257, 260, 266, 273, 278, 288, 297,**298**, 306, 317, 320, 357, 361, **>405<**, **406**, **>429<**, Cascata, Marcha Fúnebre
+
+
+---
+
+## Novas Palavras
+
+- **Troçar**: Zombar
+	- Exemplo - Fragmento 150 "Para que troço eu deles?"
+- **Insciência**: ignorância ou inaptidão
+	- Exemplo - Fragmento 150 "Irmãos na comum insciência"
+- **Plácido**: tranquilo
+	- Exemplo - Fragmento 151 "No fundo da rua, abismo plácido..."
+- **Madrepérola**: Madrepérola, também conhecida como nácar, é uma substância dura e iridescente, rica em calcário, produzida por alguns moluscos na parte interna de suas conchas
+	- Exemplo - Fragmento 151 "É um ar de neve tornada cor onde boiam filamentos de madrepérola morna.""
+- **Alameda**: rua (ou caminho) constituída por árvores plantadas em fileiras.
+- **Pajem**: um rapaz que acompanha e serve um nobre, um príncipe ou um rei, especialmente em contextos históricos ou em cerimônias como casamentos, onde desempenha o papel de levar as alianças ou outros elementos simbólico
+- **Cataclismos**: eventos catastróficos de grande escala, tanto naturais quanto sociais
+- **Apoteose**: ato de elevar alguém à condição de deus, ou seja, deificar ou divinizar
+	- Exemplo - Fragmento 159 "Se eu um dia pudesse adquirir um rasgo tão grande de expressão, que concentrasse toda a arte em mim, escreveria uma apoteose do sono."
+- **Sutilizar**: tornar-se volátil e evaporar-se; volatilizar-se, evolar-se.
+- oprobio 401
+
+
+

@@ -8,6 +8,7 @@ created-date: 2025-10-17
 ---
 ---
 - [[Configuring Java on Linux]]
+- [[Maven]]
 ---
 
 
