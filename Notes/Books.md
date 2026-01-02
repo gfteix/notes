@@ -9,6 +9,7 @@ tags:
 ---
 
 ## 2025
+- De quanta terra precisa o homem? E outras histórias- Tólstoi
 - [[O Livro do Desassossego]] - Fernando Pessoa
 - A Morte de Ivan Illich  - Tólstoi (Releitura)
 - [[Duna]] - Frank Herbert
