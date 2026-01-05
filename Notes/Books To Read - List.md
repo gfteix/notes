@@ -48,20 +48,21 @@ Filosofia/Religião/Espiritualidade/Psicologia
 
 Literatura
 - **As cronicas de Arthur - Bernard Cornwell**
+- **Tolstoi - Novelas**
 - **O Senhor das moscas - William Golding**
+- Dom Quixote
+- Os Demônios - Dostoiévski
+- O Idiota - Dostoiévski
 - Planeta dos Macacos
 - A ilha do dia anterior - Umberto Eco
 - Anna Kariênina - Tolstoi
 - O Macaco e a Essência - Aldous Huxley
 - Solaris
 - Um cântico para Leibowitz - Walter M. Miller Jr.
-- Don Quixote
 - Doutor Jivago
 - Meditaciones del Quijote - Jose Ortega y Gasset 
 - Os Miseráveis - Victor Hugo
 - O pavilhão dourado - Yukio Mishima
-- Os Demônios - Dostoiévski
-- O Idiota - Dostoiévski
 - David Coperfield - Charles Dickens
 - Peter Camenzind - Hermann Hesse
 - Narcissus and Goldmund - Hermann Hesse
